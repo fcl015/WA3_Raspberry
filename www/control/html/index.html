@@ -13,19 +13,31 @@
                 // automatically refresh UI each seconds
                 setInterval(updateUI, 1000);
 
+		// Create button to change operation mode
         	var updateModeValue = function(macro, args, response) {
 			$("#inputMode").val(response);
 		}
-
 		webiopi().callMacro("getModeValue",[],updateModeValue);
-
-		// Create button to send value
 		var sendButton = webiopi().createButton("sendButton","Change", function() {
 			var modeValue=[$("#inputMode").val()];
 			webiopi().callMacro("setModeValue",modeValue,updateModeValue);
 		});
-	
 		$("#controls").append(sendButton);
+
+
+		// Create button to activate irrigation, only for manual mode
+        	var updateManualValue = function(macro, args, response) {
+			$("#inputManual").val(response);
+		}
+		webiopi().callMacro("getManualValue",[],updateManualValue);
+		var sendButtonManual = webiopi().createButton("sendButton","Change", function() {
+			var manualValue=[$("#inputManual").val()];
+			webiopi().callMacro("setManualValue",manualValue,updateManualValue);
+		});
+		$("#manual").append(sendButtonManual);
+
+
+
         }
 
 
@@ -207,15 +219,44 @@
 	</table>
 
 
+	<hr>
+	<div style="font-size:20pt;font-weight:bold;text-align:center;color:white;background-color:maroon">
+	Irrigation Control (Manual Mode Only)
+	</div>
+	<hr>
+	<table border="0"; style="width:100%">
+	<tr bgcolor="#EAEDED">
+		<td align="center"></td>
+		<td align="center">
+		<span style="font-size:20pt;color:black;"> 0-Deactivate, 1-Activate</span>
+		</td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"></td>
+		<td align="center">
+		<input style="font-size:24pt;text-align:center;color:blue;font-weight:bold;height:40px;width:200px" type="text" id="inputManual" /><br/>
+		</td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"></td>
+		<td align="center"><div id="manual"></div></td>
+		<td align="center"></td>
+	</tr>
+	</table>
 
 	<hr>
 	<div style="font-size:20pt;font-weight:bold;text-align:center;color:white;background-color:maroon">
 	Real Time Video Streaming
 	</div>
 	<hr>
+<<!--	
 	<div style="text-align:center">
+
 		<iframe src="http://10.34.57.255/rpi_cam?action=stream" width="800" height="460"/></iframe>
 	</script>
+-->
 	</div>
 
 

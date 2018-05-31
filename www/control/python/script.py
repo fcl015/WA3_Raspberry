@@ -6,15 +6,17 @@ import datetime
 
 # Define variables
 sensors = [0 for a in range(14)]
+modeValue = 0
+manualValue = 0
 
 def setup():
     # Configure variables
-    webiopi.sleep(5)
+    webiopi.sleep(1)
 
 def loop():
     # Read measurements
-    file_name="/home/pi/Code/WA3/WA3_Raspberry/data/data_area1.csv"
-    with open(file_name) as csvfile:
+    data_file_name="/home/pi/Code/WA3/WA3_Raspberry/data/data_area1.csv"
+    with open(data_file_name) as csvfile:
         readCSV=csv.reader(csvfile, delimiter=',')
         for row in readCSV:
             sensors[0]=row[0];
@@ -43,15 +45,48 @@ def getSensor(channel):
         return 'XXXX'
 
 @webiopi.macro
-def getPWMValue():
-    return "%d" % pwmValue
+def getModeValue():
+    mode_file_name="/home/pi/Code/WA3/WA3_Raspberry/config/operation_mode_area1.csv"
+    with open(mode_file_name) as csvfile:
+        readCSV=csv.reader(csvfile, delimiter=',')
+        for row in readCSV:
+            if row[0]=='operation_mode':
+                modeValue=int(row[1])
+        csvfile.close()   
+    return "%d" % modeValue
 
 @webiopi.macro
-def setPWMValue(value):
-    global pwmValue
-    pwmValue=int(value)
-    if (pwmValue > 255 ):
-        pwmValue=255
-    if (pwmValue < 0 ):
-        pwmValue=0
-    return getPWMValue();
+def setModeValue(value):
+    global modeValue
+    mode_file_name="/home/pi/Code/WA3/WA3_Raspberry/config/operation_mode_area1.csv"
+    if (int(value) <= 2 and int(value) >= 0 ):
+        modeValue=int(value)
+        with open(mode_file_name,"w+") as csvfile:
+            writeCSV=csv.writer(csvfile, delimiter=',')
+            writeCSV.writerow(["operation_mode",value])
+            csvfile.close()
+    return getModeValue();
+
+
+@webiopi.macro
+def getManualValue():
+    manual_file_name="/home/pi/Code/WA3/WA3_Raspberry/config/manual_control_area1.csv"
+    with open(manual_file_name) as csvfile:
+        readCSV=csv.reader(csvfile, delimiter=',')
+        for row in readCSV:
+            if row[0]=='manual_control':
+                manualValue=int(row[1])
+        csvfile.close()   
+    return "%d" % manualValue
+
+@webiopi.macro
+def setManualValue(value):
+    global manualValue
+    manual_file_name="/home/pi/Code/WA3/WA3_Raspberry/config/manual_control_area1.csv"
+    if (int(value) <= 1 and int(value) >= 0 ):
+        manualValue=int(value)
+        with open(manual_file_name,"w+") as csvfile:
+            writeCSV=csv.writer(csvfile, delimiter=',')
+            writeCSV.writerow(["manual_control",value])
+            csvfile.close()
+    return getManualValue();

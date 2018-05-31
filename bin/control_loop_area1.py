@@ -11,12 +11,13 @@ import wa_control
 class irrigation_area:
         def __init__(self, id=0):
                 self.area_id=id
-                self.operation_mode='none'   #Options: none,auto,sched,manual
+                self.operation_mode='none'   #Options: none,manual,sched,auto
                 self.config_file='../config/config_area'+str(id)+'.csv'
                 self.sched_file='../config/sched_area'+str(id)+'.csv'
+                self.manual_control_file='../config/manual_control_area'+str(id)+'.csv'
+                self.operation_mode_file='../config/operation_mode_area'+str(id)+'.csv'
                 self.log_file='../log/log_area'+str(id)+'.csv'
                 self.data_file='../data/data_area'+str(id)+'.csv'
-                self.manual_control_file='../config/manual_control_area'+str(id)+'.csv'
 
                 Q=0.0
                 R=0.0
@@ -53,8 +54,9 @@ class irrigation_area:
 #---------------------------------------------------------------
 area1=irrigation_area(1)
 
-print("(1) Read configuration file")
+print("(1) Read configuration files")
 wa_config_data.read_config_file(area1.config_file,area1)
+wa_config_data.read_operation_mode_file(area1.operation_mode_file,area1)
 print("    OPERATION MODE: "+area1.operation_mode)
 
 print("(2) Configure serial port")

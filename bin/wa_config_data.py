@@ -63,6 +63,30 @@ def read_config_file(file_name,data):
                 return data
 
 #---------------------------------------------------------------
+# Read operation mode file
+#---------------------------------------------------------------
+def read_operation_mode_file(file_name,data):
+        
+        try:
+                data.operation_mode='none'
+                with open(file_name) as csvfile:
+                        readCSV=csv.reader(csvfile, delimiter=',')
+                        for row in readCSV:
+                                if row[0]=='operation_mode' and row[1]=='0':
+                                        data.operation_mode='manual'
+                                elif row[0]=='operation_mode' and row[1]=='1': 
+                                        data.operation_mode='sched'
+                                elif row[0]=='operation_mode' and row[1]=='2': 
+                                        data.operation_mode='auto'
+                                else:
+                                        data.operation_mode='none'
+                        csvfile.close()
+                return data
+        except:
+                print("    ERROR Operation Mode File: Cannot access configuration file");
+                return data
+
+#---------------------------------------------------------------
 # Update configuration file
 #---------------------------------------------------------------
 def update_config_file(file_name,data):
@@ -127,7 +151,7 @@ def update_log_file(file_name,data):
 
 
 #---------------------------------------------------------------
-# Update log file
+# Update data file
 #---------------------------------------------------------------
 def update_data_file(file_name,data):
         try:
