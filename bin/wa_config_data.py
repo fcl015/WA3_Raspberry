@@ -127,6 +127,36 @@ def update_log_file(file_name,data):
 
 
 #---------------------------------------------------------------
+# Update log file
+#---------------------------------------------------------------
+def update_data_file(file_name,data):
+        try:
+                f1=datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                f2=str('{:5.2f}'.format(data.smC))
+                f3=str('{:5.2f}'.format(data.sm1))
+                f4=str('{:5.2f}'.format(data.sm2))
+                f5=str('{:5.2f}'.format(data.sm3))
+                f6=str('{:d}'.format(data.valve_status))
+                f7=str('{:5.2f}'.format(data.valve_flow))
+                f8=str('{:5.0f}'.format(data.w_radiation))
+                f9=str('{:5.2f}'.format(data.w_temperature))
+                f10=str('{:5.2f}'.format(data.w_humidity))
+                f11=str('{:5.2f}'.format(data.w_wind))
+                f12=str('{:5.2f}'.format(data.w_eto))
+                f13=str('{:5.3f}'.format(data.ndvi_alpha))
+                f14=str('{:5.3f}'.format(data.ndvi_value))
+                
+                with open(file_name,"w+") as csvfile:
+                        writeCSV=csv.writer(csvfile, delimiter=',')
+                        writeCSV.writerow([f1,f2,f3,f4,f5,f6,f7,f8,f9,f10,f11,f12,f13,f14])
+                        csvfile.close()
+                return
+        except:
+                print("    ERROR Data File: File was not updated");
+                return
+
+
+#---------------------------------------------------------------
 # Read schedule file
 #---------------------------------------------------------------
 def read_schedule_file(file_name,c_weekday,c_hour,c_min):

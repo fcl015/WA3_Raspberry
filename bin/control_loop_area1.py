@@ -15,6 +15,7 @@ class irrigation_area:
                 self.config_file='../config/config_area'+str(id)+'.csv'
                 self.sched_file='../config/sched_area'+str(id)+'.csv'
                 self.log_file='../log/log_area'+str(id)+'.csv'
+                self.data_file='../data/data_area'+str(id)+'.csv'
                 self.manual_control_file='../config/manual_control_area'+str(id)+'.csv'
 
                 Q=0.0
@@ -92,7 +93,10 @@ wa_xbee_comm.receive_weather_message(ser,area1,'WEATHER')
 print("(10)Update configuration file")
 wa_config_data.update_config_file(area1.config_file,area1)
 
-print("(11)Update log file")
+print("(11)Update data file")
+wa_config_data.update_data_file(area1.data_file,area1)
+
+print("(12)Update log file")
 wa_config_data.update_log_file(area1.log_file,area1)
 	
 
