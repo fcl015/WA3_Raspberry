@@ -1,0 +1,224 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Automated Irrigation System</title>
+
+    <script type="text/javascript" src="/webiopi.js"></script>
+    <script type="text/javascript">
+	webiopi().ready(init);
+        
+        // defines function passed previously to webiopi().ready()
+        function init() {
+                // automatically refresh UI each seconds
+                setInterval(updateUI, 1000);
+
+        	var updateModeValue = function(macro, args, response) {
+			$("#inputMode").val(response);
+		}
+
+		webiopi().callMacro("getModeValue",[],updateModeValue);
+
+		// Create button to send value
+		var sendButton = webiopi().createButton("sendButton","Change", function() {
+			var modeValue=[$("#inputMode").val()];
+			webiopi().callMacro("setModeValue",modeValue,updateModeValue);
+		});
+	
+		$("#controls").append(sendButton);
+        }
+
+
+        // function called through setInterval
+        function updateUI() {
+                // call macros for Grove Pi sensors
+                webiopi().callMacro("getSensor", 0, sensorCallback);
+                webiopi().callMacro("getSensor", 1, sensorCallback);
+                webiopi().callMacro("getSensor", 2, sensorCallback);
+                webiopi().callMacro("getSensor", 3, sensorCallback);
+                webiopi().callMacro("getSensor", 4, sensorCallback);
+                webiopi().callMacro("getSensor", 5, sensorCallback);
+                webiopi().callMacro("getSensor", 6, sensorCallback);
+                webiopi().callMacro("getSensor", 7, sensorCallback);
+                webiopi().callMacro("getSensor", 8, sensorCallback);
+                webiopi().callMacro("getSensor", 9, sensorCallback);
+                webiopi().callMacro("getSensor", 10, sensorCallback);
+                webiopi().callMacro("getSensor", 11, sensorCallback);
+                webiopi().callMacro("getSensor", 12, sensorCallback);
+                webiopi().callMacro("getSensor", 13, sensorCallback);
+         }       
+
+        // callback function used to display sensor data
+        function sensorCallback(macroName, channel, data) {
+			$("#sensor"+channel).css("background-color", "White");
+                       	$("#sensor"+channel).css("color", "Blue");
+                       	$("#sensor"+channel).css("font-weight", "bold");
+                       	$("#sensor"+channel).css("font-size", "28pt");
+			$("#sensor"+channel).text(data);		
+        }
+
+	
+	
+
+    </script>
+
+    <style type="text/css">
+    button {
+             display: block;
+             margin: 5px 5px 5px 5px;
+             width: 200px;
+             height: 60px;
+             font-size: 28pt;
+             font-weight: bold;
+             color: white;
+	     background-color: black;
+           }
+    </style>
+
+
+</head>
+
+<body>
+	<hr>
+	<div style="font-size:24pt;font-weight:bold;text-align:center;color:white;background-color:black">
+	AUTOMATED IRRIGATION SYSTEM
+	</div>
+	<hr>
+
+	<hr>
+	<div style="font-size:20pt;font-weight:bold;text-align:center;color:white;background-color:maroon">
+	Soil Moisture
+	</div>
+	<hr>
+	<table border="0"; style="width:100%">
+	<tr bgcolor="#EAEDED">
+	   <td align="center"><span style="font-size:20pt;color:black">Average</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">Sensor 1</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">Sensor 2</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">Sensor 3</span></td>
+	</tr>
+	<tr bgcolor="#EAEDED">
+	   <td align="center"><span style="font-size:20pt;color:black">(%vwc)</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">(%vwc)</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">(%vwc)</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">(%vwc)</span></td>
+	</tr>
+	<tr>
+	   <td align="center"><span id="sensor1"></span></td>
+	   <td align="center"><span id="sensor2"></span></td>
+	   <td align="center"><span id="sensor3"></span></td>
+	   <td align="center"><span id="sensor4"></span></td>
+	</tr>
+	</table>
+
+	<hr>
+	<div style="font-size:20pt;font-weight:bold;text-align:center;color:white;background-color:maroon">
+	Valve Information
+	</div>
+	<hr>
+	<table border="0"; style="width:100%">
+	<tr bgcolor="#EAEDED">
+	   <td align="center"><span style="font-size:20pt;color:black">Valve Status</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">Valve Flow</span></td>
+	</tr>
+	<tr bgcolor="#EAEDED">
+	   <td align="center"><span style="font-size:20pt;color:black">(on/off)</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">(lpm)</span></td>
+	</tr>
+	<tr>
+	   <td align="center"><span id="sensor5"></span></td>
+	   <td align="center"><span id="sensor6"></span></td>
+	</tr>
+	</table>
+
+
+	<hr>
+	<div style="font-size:20pt;font-weight:bold;text-align:center;color:white;background-color:maroon">
+	Weather Data
+	</div>
+	<hr>
+	<table border="0"; style="width:100%">
+	<tr bgcolor="#EAEDED">
+	   <td align="center"><span style="font-size:20pt;color:black">Radiation</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">Temperature</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">Humidity</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">Wind</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">ETo</span></td>
+	</tr>
+	<tr bgcolor="#EAEDED">
+	   <td align="center"><span style="font-size:20pt;color:black">(W/m2)</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">(oC)</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">(%)</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">(m/s)</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">(mm/day)</span></td>
+	</tr>
+	<tr>
+	   <td align="center"><span id="sensor7"></span></td>
+	   <td align="center"><span id="sensor8"></span></td>
+	   <td align="center"><span id="sensor9"></span></td>
+	   <td align="center"><span id="sensor10"></span></td>
+	   <td align="center"><span id="sensor11"></span></td>
+	</tr>
+	</table>
+
+	<hr>
+	<div style="font-size:20pt;font-weight:bold;text-align:center;color:white;background-color:maroon">
+	Normalized Differential Vegetation index
+	</div>
+	<hr>
+	<table border="0"; style="width:100%">
+	<tr bgcolor="#EAEDED">
+	   <td align="center"><span style="font-size:20pt;color:black">Alpha</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">NDVI</span></td>
+	</tr>
+	<tr>
+	   <td align="center"><span id="sensor12"></span></td>
+	   <td align="center"><span id="sensor13"></span></td>
+	</tr>
+	</table>
+
+
+
+	<hr>
+	<div style="font-size:20pt;font-weight:bold;text-align:center;color:white;background-color:maroon">
+	Operation Mode
+	</div>
+	<hr>
+	<table border="0"; style="width:100%">
+	<tr bgcolor="#EAEDED">
+		<td align="center"></td>
+		<td align="center">
+		<span style="font-size:20pt;color:black;"> 0-Manual, 1-Scheduler, 2-Automatic</span>
+		</td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"></td>
+		<td align="center">
+		<input style="font-size:24pt;text-align:center;color:blue;font-weight:bold;height:40px;width:200px" type="text" id="inputMode" /><br/>
+		</td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"></td>
+		<td align="center"><div id="controls"></div></td>
+		<td align="center"></td>
+	</tr>
+	</table>
+
+
+
+	<hr>
+	<div style="font-size:20pt;font-weight:bold;text-align:center;color:white;background-color:maroon">
+	Real Time Video Streaming
+	</div>
+	<hr>
+	<div style="text-align:center">
+		<iframe src="http://10.34.57.255/rpi_cam?action=stream" width="800" height="460"/></iframe>
+	</script>
+	</div>
+
+
+</body>
+</html>
+
