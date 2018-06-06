@@ -13,25 +13,32 @@ def data_fusion(data):
 
         if data.sm_sensors==0b001:
                 data.smC=data.sm1
-                print("    Fusion (SM1)={0:5.2f}".format(data.smC))
+                if data.verbose:
+                        print("    Fusion (SM1)={0:5.2f}".format(data.smC))
         elif data.sm_sensors==0b010:
                 data.smC=data.sm2
-                print("    Fusion (SM2)={0:5.2f}".format(data.smC))
+                if data.verbose:
+                        print("    Fusion (SM2)={0:5.2f}".format(data.smC))
         elif data.sm_sensors==0b100:
                 data.smC=data.sm3
-                print("    Fusion (SM3)={0:5.2f}".format(data.smC))
+                if data.verbose:
+                        print("    Fusion (SM3)={0:5.2f}".format(data.smC))
         elif data.sm_sensors==0b011:
                 data.smC=(data.sm1+data.sm2)/2.0
-                print("    Fusion (SM1,SM2)={0:5.2f}".format(data.smC))
+                if data.verbose:
+                        print("    Fusion (SM1,SM2)={0:5.2f}".format(data.smC))
         elif data.sm_sensors==0b110:
                 data.smC=(data.sm2+data.sm3)/2.0
-                print("    Fusion (SM2,SM3)={0:5.2f}".format(data.smC))
+                if data.verbose:
+                        print("    Fusion (SM2,SM3)={0:5.2f}".format(data.smC))
         elif data.sm_sensors==0b101:
                 data.smC=(data.sm1+data.sm3)/2.0
-                print("    Fusion (SM1,SM3)={0:5.2f}".format(data.smC))
+                if data.verbose:
+                        print("    Fusion (SM1,SM3)={0:5.2f}".format(data.smC))
         elif data.sm_sensors==0b111:
                 data.smC=(data.sm1+data.sm2+data.sm3)/3.0
-                print("    Fusion (SM1,SM2,SM3)={0:5.2f}".format(data.smC))
+                if data.verbose:
+                        print("    Fusion (SM1,SM2,SM3)={0:5.2f}".format(data.smC))
         else:
                 data.smC=0;
                 print("    ERROR: NO DATA FUSION")
@@ -52,7 +59,8 @@ def calculate_kalman(data):
         p1=(data.p1_ant+data.Q)*(1-k)
         data.p1_ant=p1
         data.smKalman_ant=data.smC
-        print("    SM1_KAL={0:5.2f}".format(data.smC));
+        if data.verbose:
+                print("    SM1_KAL={0:5.2f}".format(data.smC));
         return 
 
 
@@ -66,12 +74,15 @@ def control_algorithm(data):
                 print('    Control algorithm in AUTO mode')
                 if data.smC <  data.irrigation_low_limit and data.valve_status==0:
                         data.valve_status=1;
-                        print("    Valve status ({0:d}) change to ON".format(data.valve_status));
+                        if data.verbose:
+                                print("    Valve status ({0:d}) change to ON".format(data.valve_status));
                 elif data.smC > data.irrigation_high_limit and data.valve_status==1:
                         data.valve_status=0;
-                        print("    Valve status ({0:d}) change to OFF".format(data.valve_status));
+                        if data.verbose:
+                                print("    Valve status ({0:d}) change to OFF".format(data.valve_status));
                 else:
-                        print("    Valve status ({0:d})".format(data.valve_status));
+                        if data.verbose:
+                                print("    Valve status ({0:d})".format(data.valve_status));
                         
                 return
         
@@ -83,10 +94,12 @@ def control_algorithm(data):
                 c_min=datetime.datetime.today().minute  
                 if wa_config_data.read_schedule_file(data.sched_file,c_weekday,c_hour,c_min):
                         data.valve_status=1;
-                        print("    Valve status ({0:d})".format(data.valve_status));
+                        if data.verbose:
+                                print("    Valve status ({0:d})".format(data.valve_status));
                 else:
                         data.valve_status=0;
-                        print("    Valve status ({0:d})".format(data.valve_status));
+                        if data.verbose:
+                                print("    Valve status ({0:d})".format(data.valve_status));
                 return
 
         elif data.operation_mode=='manual':
@@ -94,10 +107,12 @@ def control_algorithm(data):
                 print('    Control algorithm in MANUAL mode')
                 if wa_config_data.read_manual_control_file(data.manual_control_file):
                         data.valve_status=1;
-                        print("    Valve status ({0:d})".format(data.valve_status));
+                        if data.verbose:
+                                print("    Valve status ({0:d})".format(data.valve_status));
                 else:
                         data.valve_status=0;
-                        print("    Valve status ({0:d})".format(data.valve_status));
+                        if data.verbose:
+                                print("    Valve status ({0:d})".format(data.valve_status));
                 return
 
         else:

@@ -1,0 +1,760 @@
+{2017/10/31 09:46:13} RaspiMJPEG Version 5.8.06
+{2017/10/31 09:46:13} recommended video buffer size 65536
+{2017/10/31 09:46:13} h264 size set to 131072
+{2017/10/31 09:46:13} recommended video buffers 1
+{2017/10/31 09:46:13} h264 buffers set to recommended 1
+{2017/10/31 09:46:13} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2017/10/31 09:46:13} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2017/10/31 09:46:13} MJPEG streaming, ready to receive commands
+{2017/10/31 09:46:13} send smd 9
+[2017/10/31 10:46:14] RaspiCam support started
+[2017/10/31 10:46:14] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+{2017/10/31 09:46:14} Starting command loop
+[2017/10/31 10:46:14] Scheduler loop is started
+[2017/10/31 10:46:14] Reload parameters command requested
+[2017/10/31 10:46:14] Scheduler loop is started
+[2017/10/31 10:46:15] New period detected 0
+[2017/10/31 10:46:15] Scheduled management tasks. Next at 1509471975
+[2017/10/31 10:49:24] Logged in user::
+[2017/10/31 10:49:24] UserLevel 6
+[2017/10/31 10:50:53] Logged in user::
+[2017/10/31 10:50:53] UserLevel 6
+{2017/10/31 09:52:07} SIGINT/SIGTERM received, stopping
+{2017/10/31 10:01:56} RaspiMJPEG Version 5.8.06
+{2017/10/31 10:01:56} recommended video buffer size 65536
+{2017/10/31 10:01:56} h264 size set to 131072
+{2017/10/31 10:01:56} recommended video buffers 1
+{2017/10/31 10:01:56} h264 buffers set to recommended 1
+{2017/10/31 10:01:56} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2017/10/31 10:01:56} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2017/10/31 10:01:56} MJPEG streaming, ready to receive commands
+{2017/10/31 10:01:56} send smd 9
+[2017/10/31 11:01:58] RaspiCam support started
+[2017/10/31 11:01:58] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+{2017/10/31 10:01:58} Starting command loop
+[2017/10/31 11:01:58] Scheduler loop is started
+[2017/10/31 11:01:58] Reload parameters command requested
+[2017/10/31 11:01:58] Scheduler loop is started
+[2017/10/31 11:01:59] New period detected 0
+[2017/10/31 11:01:59] Scheduled management tasks. Next at 1509472919
+[2017/10/31 11:02:24] Logged in user::
+[2017/10/31 11:02:24] UserLevel 6
+{2017/10/31 10:04:20} SIGINT/SIGTERM received, stopping
+{2017/10/31 10:43:44} RaspiMJPEG Version 5.8.06
+{2017/10/31 10:43:44} recommended video buffer size 65536
+{2017/10/31 10:43:44} h264 size set to 131072
+{2017/10/31 10:43:44} recommended video buffers 1
+{2017/10/31 10:43:44} h264 buffers set to recommended 1
+{2017/10/31 10:43:44} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2017/10/31 10:43:44} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2017/10/31 10:43:44} MJPEG streaming, ready to receive commands
+{2017/10/31 10:43:44} send smd 9
+[2017/10/31 11:43:45] RaspiCam support started
+[2017/10/31 11:43:45] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+{2017/10/31 10:43:45} Starting command loop
+[2017/10/31 11:43:45] Scheduler loop is started
+[2017/10/31 11:43:46] Reload parameters command requested
+[2017/10/31 11:43:46] Scheduler loop is started
+[2017/10/31 11:43:47] New period detected 0
+[2017/10/31 11:43:47] Scheduled management tasks. Next at 1509475427
+[2017/10/31 11:44:14] Logged in user::
+[2017/10/31 11:44:14] UserLevel 6
+{2017/10/31 10:53:20} SIGINT/SIGTERM received, stopping
+{2017/10/31 10:53:25} RaspiMJPEG Version 5.8.06
+{2017/10/31 10:53:25} recommended video buffer size 65536
+{2017/10/31 10:53:25} h264 size set to 131072
+{2017/10/31 10:53:25} recommended video buffers 1
+{2017/10/31 10:53:25} h264 buffers set to recommended 1
+{2017/10/31 10:53:25} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2017/10/31 10:53:25} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2017/10/31 10:53:25} MJPEG streaming, ready to receive commands
+{2017/10/31 10:53:25} send smd 9
+[2017/10/31 11:53:26] RaspiCam support started
+[2017/10/31 11:53:26] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+[2017/10/31 11:53:26] Scheduler loop is started
+{2017/10/31 10:53:26} Starting command loop
+[2017/10/31 11:53:26] Reload parameters command requested
+[2017/10/31 11:53:26] Scheduler loop is started
+[2017/10/31 11:53:27] New period detected 0
+[2017/10/31 11:53:27] Scheduled management tasks. Next at 1509476007
+[2017/10/31 11:53:50] Logged in user::
+[2017/10/31 11:53:50] UserLevel 6
+[2017/10/31 11:56:14] Logged in user::
+[2017/10/31 11:56:14] UserLevel 6
+{2017/10/31 11:08:27} RaspiMJPEG Version 5.8.06
+{2017/10/31 11:08:27} recommended video buffer size 65536
+{2017/10/31 11:08:27} h264 size set to 131072
+{2017/10/31 11:08:27} recommended video buffers 1
+{2017/10/31 11:08:27} h264 buffers set to recommended 1
+{2017/10/31 11:08:27} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2017/10/31 11:08:27} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2017/10/31 11:08:27} MJPEG streaming, ready to receive commands
+{2017/10/31 11:08:27} send smd 9
+[2017/10/31 12:08:28] RaspiCam support started
+[2017/10/31 12:08:28] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+[2017/10/31 12:08:28] Scheduler loop is started
+{2017/10/31 11:08:28} Starting command loop
+[2017/10/31 12:08:28] Reload parameters command requested
+[2017/10/31 12:08:28] Scheduler loop is started
+[2017/10/31 12:08:29] New period detected 0
+[2017/10/31 12:08:29] Scheduled management tasks. Next at 1509476909
+[2017/10/31 12:08:59] Logged in user::
+[2017/10/31 12:08:59] UserLevel 6
+{2017/10/31 17:54:49} RaspiMJPEG Version 5.8.06
+{2017/10/31 17:54:49} recommended video buffer size 65536
+{2017/10/31 17:54:49} h264 size set to 131072
+{2017/10/31 17:54:49} recommended video buffers 1
+{2017/10/31 17:54:49} h264 buffers set to recommended 1
+{2017/10/31 17:54:49} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2017/10/31 17:54:49} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2017/10/31 17:54:49} MJPEG streaming, ready to receive commands
+{2017/10/31 17:54:49} send smd 9
+[2017/10/31 18:54:51] RaspiCam support started
+[2017/10/31 18:54:51] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+{2017/10/31 17:54:51} Starting command loop
+[2017/10/31 18:54:51] Scheduler loop is started
+[2017/10/31 18:54:51] Reload parameters command requested
+[2017/10/31 18:54:51] Scheduler loop is started
+[2017/10/31 18:54:52] New period detected 0
+[2017/10/31 18:54:52] Scheduled management tasks. Next at 1509501292
+[2017/10/31 18:55:21] Logged in user::
+[2017/10/31 18:55:21] UserLevel 6
+{2017/10/31 18:06:41} SIGINT/SIGTERM received, stopping
+{2017/10/31 18:06:46} RaspiMJPEG Version 5.8.06
+{2017/10/31 18:06:46} recommended video buffer size 65536
+{2017/10/31 18:06:46} h264 size set to 131072
+{2017/10/31 18:06:46} recommended video buffers 1
+{2017/10/31 18:06:46} h264 buffers set to recommended 1
+{2017/10/31 18:06:46} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2017/10/31 18:06:46} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2017/10/31 18:06:46} MJPEG streaming, ready to receive commands
+{2017/10/31 18:06:46} send smd 9
+[2017/10/31 19:06:47] RaspiCam support started
+[2017/10/31 19:06:47] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+[2017/10/31 19:06:47] Scheduler loop is started
+{2017/10/31 18:06:47} Starting command loop
+[2017/10/31 19:06:47] Reload parameters command requested
+[2017/10/31 19:06:47] Scheduler loop is started
+[2017/10/31 19:06:48] New period detected 0
+[2017/10/31 19:06:48] Scheduled management tasks. Next at 1509502008
+{2017/11/03 11:59:33} RaspiMJPEG Version 5.8.06
+{2017/11/03 11:59:33} recommended video buffer size 65536
+{2017/11/03 11:59:33} h264 size set to 131072
+{2017/11/03 11:59:33} recommended video buffers 1
+{2017/11/03 11:59:33} h264 buffers set to recommended 1
+{2017/11/03 11:59:33} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2017/11/03 11:59:33} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2017/11/03 11:59:33} MJPEG streaming, ready to receive commands
+{2017/11/03 11:59:33} send smd 9
+[2017/11/03 12:59:34] RaspiCam support started
+[2017/11/03 12:59:34] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+{2017/11/03 11:59:34} Starting command loop
+[2017/11/03 12:59:34] Scheduler loop is started
+[2017/11/03 12:59:34] Reload parameters command requested
+[2017/11/03 12:59:34] Scheduler loop is started
+[2017/11/03 12:59:35] New period detected 0
+[2017/11/03 12:59:35] Scheduled management tasks. Next at 1509739175
+[2017/11/03 13:00:52] Logged in user::
+[2017/11/03 13:00:52] UserLevel 6
+[2017/11/03 13:01:39] Logged in user::
+[2017/11/03 13:01:39] UserLevel 6
+[2017/11/03 13:03:04] Logged in user::
+[2017/11/03 13:03:04] UserLevel 6
+{2017/11/22 07:49:02} RaspiMJPEG Version 5.8.06
+{2017/11/22 07:49:02} recommended video buffer size 65536
+{2017/11/22 07:49:02} h264 size set to 131072
+{2017/11/22 07:49:02} recommended video buffers 1
+{2017/11/22 07:49:02} h264 buffers set to recommended 1
+{2017/11/22 07:49:02} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2017/11/22 07:49:02} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2017/11/22 07:49:02} MJPEG streaming, ready to receive commands
+{2017/11/22 07:49:02} send smd 9
+[2017/11/22 07:49:03] RaspiCam support started
+[2017/11/22 07:49:03] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+{2017/11/22 07:49:03} Starting command loop
+[2017/11/22 07:49:03] Scheduler loop is started
+[2017/11/22 07:49:03] Reload parameters command requested
+[2017/11/22 07:49:03] Scheduler loop is started
+[2017/11/22 07:49:04] New period detected 0
+[2017/11/22 07:49:04] Scheduled management tasks. Next at 1511365744
+[2017/11/22 07:52:14] Logged in user::
+[2017/11/22 07:52:14] UserLevel 6
+[2017/11/22 08:10:44] Logged in user::
+[2017/11/22 08:10:44] UserLevel 6
+[2017/11/22 08:13:59] Logged in user::
+[2017/11/22 08:13:59] UserLevel 6
+[2017/11/22 08:18:36] Logged in user::
+[2017/11/22 08:18:36] UserLevel 6
+[2017/11/22 08:20:06] Logged in user::
+[2017/11/22 08:20:06] UserLevel 6
+[2017/11/22 08:23:34] Logged in user::
+[2017/11/22 08:23:34] UserLevel 6
+[2017/11/22 08:26:31] Logged in user::
+[2017/11/22 08:26:31] UserLevel 6
+[2017/11/22 10:16:19] Scheduled management tasks. Next at 1511374577
+[2017/11/22 10:18:10] Logged in user::
+[2017/11/22 10:18:10] UserLevel 6
+[2017/11/22 10:23:43] Logged in user::
+[2017/11/22 10:23:43] UserLevel 6
+[2017/11/22 10:25:41] Logged in user::
+[2017/11/22 10:25:41] UserLevel 6
+[2017/11/22 10:29:46] Logged in user::
+[2017/11/22 10:29:46] UserLevel 6
+[2017/11/22 10:31:17] Logged in user::
+[2017/11/22 10:31:17] UserLevel 6
+[2017/11/22 10:32:59] Logged in user::
+[2017/11/22 10:32:59] UserLevel 6
+[2017/11/22 10:33:44] Logged in user::
+[2017/11/22 10:33:44] UserLevel 6
+[2017/11/22 10:34:24] Logged in user::
+[2017/11/22 10:34:27] UserLevel 6
+[2017/11/22 10:36:11] Logged in user::
+[2017/11/22 10:36:11] UserLevel 6
+[2017/11/22 10:37:34] Logged in user::
+[2017/11/22 10:37:34] UserLevel 6
+[2017/11/22 10:38:24] Logged in user::
+[2017/11/22 10:38:24] UserLevel 6
+[2017/11/22 10:43:44] Logged in user::
+[2017/11/22 10:43:44] UserLevel 6
+[2017/11/22 11:16:18] Scheduled management tasks. Next at 1511378178
+[2018/05/30 11:33:38] Logged in user::
+[2018/05/30 11:33:38] UserLevel 6
+[2018/05/30 11:34:32] Logged in user::
+[2018/05/30 11:34:32] UserLevel 6
+[2018/05/30 11:34:44] Logged in user::
+[2018/05/30 11:34:44] UserLevel 6
+[2018/05/30 11:34:50] Logged in user::
+[2018/05/30 11:34:50] UserLevel 6
+[2018/05/30 11:35:04] Logged in user::
+[2018/05/30 11:35:04] UserLevel 6
+[2018/05/30 11:38:25] Logged in user::
+[2018/05/30 11:38:25] UserLevel 6
+[2018/05/30 11:47:40] Logged in user::
+[2018/05/30 11:47:40] UserLevel 6
+[2018/05/30 11:54:53] Logged in user::
+[2018/05/30 11:54:53] UserLevel 6
+[2018/05/30 12:42:04] Logged in user::
+[2018/05/30 12:42:04] UserLevel 6
+[2018/05/30 12:45:49] Logged in user::
+[2018/05/30 12:45:49] UserLevel 6
+[2018/05/30 12:48:04] Logged in user::
+[2018/05/30 12:48:04] UserLevel 6
+[2018/05/30 12:53:56] Logged in user::
+[2018/05/30 12:53:56] UserLevel 6
+[2018/05/30 12:55:23] Logged in user::
+[2018/05/30 12:55:23] UserLevel 6
+[2018/05/30 12:57:13] Logged in user::
+[2018/05/30 12:57:13] UserLevel 6
+[2018/05/30 12:58:16] Logged in user::
+[2018/05/30 12:58:16] UserLevel 6
+[2018/05/30 13:03:34] Logged in user::
+[2018/05/30 13:03:34] UserLevel 6
+[2018/05/30 13:11:41] Logged in user::
+[2018/05/30 13:11:41] UserLevel 6
+[2018/05/30 13:13:51] Logged in user::
+[2018/05/30 13:13:51] UserLevel 6
+[2018/05/30 17:12:09] Logged in user::
+[2018/05/30 17:12:10] UserLevel 6
+[2018/05/30 17:13:52] Logged in user::
+[2018/05/30 17:13:52] UserLevel 6
+[2018/05/30 17:19:32] Logged in user::
+[2018/05/30 17:19:32] UserLevel 6
+[2018/05/30 17:22:13] Logged in user::
+[2018/05/30 17:22:13] UserLevel 6
+[2018/05/30 17:25:40] Logged in user::
+[2018/05/30 17:25:40] UserLevel 6
+[2018/05/30 17:31:43] Logged in user::
+[2018/05/30 17:31:43] UserLevel 6
+[2018/05/30 17:33:48] Logged in user::
+[2018/05/30 17:33:48] UserLevel 6
+[2018/05/30 17:40:09] Logged in user::
+[2018/05/30 17:40:09] UserLevel 6
+[2018/05/30 17:44:23] Logged in user::
+[2018/05/30 17:44:23] UserLevel 6
+[2018/05/30 17:45:47] Logged in user::
+[2018/05/30 17:45:47] UserLevel 6
+[2018/05/30 17:48:51] Logged in user::
+[2018/05/30 17:48:51] UserLevel 6
+[2018/05/30 17:55:37] Logged in user::
+[2018/05/30 17:55:37] UserLevel 6
+[2018/05/30 17:59:48] Logged in user::
+[2018/05/30 17:59:48] UserLevel 6
+[2018/05/30 18:02:05] Logged in user::
+[2018/05/30 18:02:05] UserLevel 6
+[2018/05/30 18:04:43] Logged in user::
+[2018/05/30 18:04:43] UserLevel 6
+[2018/05/30 18:05:32] Logged in user::
+[2018/05/30 18:05:32] UserLevel 6
+[2018/05/30 18:07:49] Logged in user::
+[2018/05/30 18:07:49] UserLevel 6
+[2018/05/30 18:10:56] Logged in user::
+[2018/05/30 18:10:56] UserLevel 6
+[2018/05/30 18:11:43] Logged in user::
+[2018/05/30 18:11:44] UserLevel 6
+[2018/05/30 18:12:48] Logged in user::
+[2018/05/30 18:12:48] UserLevel 6
+[2018/05/30 18:13:48] Logged in user::
+[2018/05/30 18:13:48] UserLevel 6
+[2018/05/30 18:14:18] Logged in user::
+[2018/05/30 18:14:18] UserLevel 6
+[2018/05/30 18:15:44] Logged in user::
+[2018/05/30 18:15:44] UserLevel 6
+[2018/05/30 18:16:52] Logged in user::
+[2018/05/30 18:16:52] UserLevel 6
+[2018/05/30 18:17:52] Logged in user::
+[2018/05/30 18:17:52] UserLevel 6
+[2018/05/30 18:18:39] Logged in user::
+[2018/05/30 18:18:39] UserLevel 6
+[2018/05/30 18:19:08] Logged in user::
+[2018/05/30 18:19:08] UserLevel 6
+[2018/05/30 18:19:29] Logged in user::
+[2018/05/30 18:19:29] UserLevel 6
+[2018/05/30 18:19:59] Logged in user::
+[2018/05/30 18:19:59] UserLevel 6
+[2018/05/30 18:21:53] Logged in user::
+[2018/05/30 18:21:53] UserLevel 6
+[2018/05/30 18:22:03] Logged in user::
+[2018/05/30 18:22:03] UserLevel 6
+[2018/05/30 18:25:54] Logged in user::
+[2018/05/30 18:25:54] UserLevel 6
+[2018/05/30 18:26:18] Logged in user::
+[2018/05/30 18:26:18] UserLevel 6
+[2018/05/30 18:26:55] Logged in user::
+[2018/05/30 18:26:55] UserLevel 6
+[2018/05/30 18:27:13] Logged in user::
+[2018/05/30 18:27:13] UserLevel 6
+[2018/05/30 18:29:46] Logged in user::
+[2018/05/30 18:29:46] UserLevel 6
+[2018/05/30 18:33:01] Logged in user::
+[2018/05/30 18:33:01] UserLevel 6
+[2018/05/30 18:33:35] Logged in user::
+[2018/05/30 18:33:35] UserLevel 6
+[2018/05/30 18:34:43] Logged in user::
+[2018/05/30 18:34:43] UserLevel 6
+[2018/05/30 18:35:12] Logged in user::
+[2018/05/30 18:35:12] UserLevel 6
+[2018/05/30 18:37:20] Logged in user::
+[2018/05/30 18:37:20] UserLevel 6
+[2018/05/30 18:37:54] Logged in user::
+[2018/05/30 18:37:54] UserLevel 6
+[2018/05/30 18:38:34] Logged in user::
+[2018/05/30 18:38:34] UserLevel 6
+[2018/05/30 18:39:07] Logged in user::
+[2018/05/30 18:39:07] UserLevel 6
+[2018/05/30 18:39:51] Logged in user::
+[2018/05/30 18:39:51] UserLevel 6
+[2018/05/30 18:42:47] Logged in user::
+[2018/05/30 18:42:47] UserLevel 6
+[2018/05/30 18:43:30] Logged in user::
+[2018/05/30 18:43:30] UserLevel 6
+[2018/05/30 18:44:50] Logged in user::
+[2018/05/30 18:44:50] UserLevel 6
+[2018/05/30 18:45:52] Logged in user::
+[2018/05/30 18:45:52] UserLevel 6
+[2018/05/30 18:46:30] Logged in user::
+[2018/05/30 18:46:30] UserLevel 6
+[2018/05/30 18:47:34] Logged in user::
+[2018/05/30 18:47:34] UserLevel 6
+[2018/05/30 18:48:21] Logged in user::
+[2018/05/30 18:48:21] UserLevel 6
+[2018/05/30 18:49:39] Logged in user::
+[2018/05/30 18:49:39] UserLevel 6
+[2018/05/30 18:49:55] Logged in user::
+[2018/05/30 18:49:55] UserLevel 6
+[2018/05/30 18:50:53] Logged in user::
+[2018/05/30 18:50:53] UserLevel 6
+[2018/05/31 08:01:43] Logged in user::
+[2018/05/31 08:01:43] UserLevel 6
+[2018/05/31 08:04:12] Logged in user::
+[2018/05/31 08:04:12] UserLevel 6
+[2018/05/31 08:04:59] Logged in user::
+[2018/05/31 08:04:59] UserLevel 6
+[2018/05/31 08:07:33] Logged in user::
+[2018/05/31 08:07:33] UserLevel 6
+[2018/05/31 08:08:30] Logged in user::
+[2018/05/31 08:08:30] UserLevel 6
+[2018/05/31 08:12:51] Logged in user::
+[2018/05/31 08:12:51] UserLevel 6
+[2018/05/31 08:13:33] Logged in user::
+[2018/05/31 08:13:33] UserLevel 6
+[2018/05/31 08:14:34] Logged in user::
+[2018/05/31 08:14:34] UserLevel 6
+[2018/05/31 08:17:30] Logged in user::
+[2018/05/31 08:17:30] UserLevel 6
+[2018/05/31 08:18:30] Logged in user::
+[2018/05/31 08:18:30] UserLevel 6
+[2018/05/31 08:19:12] Logged in user::
+[2018/05/31 08:19:12] UserLevel 6
+[2018/05/31 08:19:30] Logged in user::
+[2018/05/31 08:19:30] UserLevel 6
+[2018/05/31 08:20:57] Logged in user::
+[2018/05/31 08:20:57] UserLevel 6
+[2018/05/31 08:21:54] Logged in user::
+[2018/05/31 08:21:54] UserLevel 6
+[2018/05/31 08:23:53] Logged in user::
+[2018/05/31 08:23:53] UserLevel 6
+[2018/05/31 08:24:49] Logged in user::
+[2018/05/31 08:24:49] UserLevel 6
+[2018/05/31 08:25:48] Logged in user::
+[2018/05/31 08:25:48] UserLevel 6
+[2018/05/31 08:30:02] Logged in user::
+[2018/05/31 08:30:02] UserLevel 6
+[2018/05/31 08:30:29] Logged in user::
+[2018/05/31 08:30:29] UserLevel 6
+[2018/05/31 08:34:55] Logged in user::
+[2018/05/31 08:34:55] UserLevel 6
+[2018/05/31 08:35:19] Logged in user::
+[2018/05/31 08:35:19] UserLevel 6
+[2018/05/31 08:36:03] Logged in user::
+[2018/05/31 08:36:03] UserLevel 6
+[2018/05/31 08:36:11] Logged in user::
+[2018/05/31 08:36:11] UserLevel 6
+[2018/05/31 08:36:33] Logged in user::
+[2018/05/31 08:36:33] UserLevel 6
+[2018/05/31 08:37:32] Logged in user::
+[2018/05/31 08:37:33] UserLevel 6
+[2018/05/31 08:37:51] Logged in user::
+[2018/05/31 08:37:51] UserLevel 6
+[2018/05/31 08:39:39] Logged in user::
+[2018/05/31 08:39:39] UserLevel 6
+[2018/05/31 08:40:38] Logged in user::
+[2018/05/31 08:40:38] UserLevel 6
+[2018/05/31 08:41:13] Logged in user::
+[2018/05/31 08:41:13] UserLevel 6
+[2018/05/31 08:41:58] Logged in user::
+[2018/05/31 08:41:58] UserLevel 6
+[2018/05/31 08:42:40] Logged in user::
+[2018/05/31 08:42:40] UserLevel 6
+[2018/05/31 08:43:25] Logged in user::
+[2018/05/31 08:43:25] UserLevel 6
+[2018/05/31 08:43:52] Logged in user::
+[2018/05/31 08:43:52] UserLevel 6
+[2018/05/31 08:44:54] Logged in user::
+[2018/05/31 08:44:54] UserLevel 6
+[2018/05/31 08:46:26] Logged in user::
+[2018/05/31 08:46:26] UserLevel 6
+[2018/05/31 09:07:07] Logged in user::
+[2018/05/31 09:07:07] UserLevel 6
+[2018/05/31 09:08:20] Logged in user::
+[2018/05/31 09:08:20] UserLevel 6
+[2018/05/31 09:09:21] Logged in user::
+[2018/05/31 09:09:21] UserLevel 6
+[2018/05/31 09:09:46] Logged in user::
+[2018/05/31 09:09:46] UserLevel 6
+[2018/05/31 09:12:37] Logged in user::
+[2018/05/31 09:12:37] UserLevel 6
+[2018/05/31 09:14:39] Logged in user::
+[2018/05/31 09:14:39] UserLevel 6
+[2018/05/31 09:28:14] Logged in user::
+[2018/05/31 09:28:14] UserLevel 6
+[2018/05/31 09:30:19] Logged in user::
+[2018/05/31 09:30:19] UserLevel 6
+[2018/05/31 09:32:20] Logged in user::
+[2018/05/31 09:32:20] UserLevel 6
+[2018/05/31 09:34:14] Logged in user::
+[2018/05/31 09:34:14] UserLevel 6
+[2018/05/31 09:46:04] Logged in user::
+[2018/05/31 09:46:04] UserLevel 6
+[2018/05/31 09:46:58] Logged in user::
+[2018/05/31 09:46:58] UserLevel 6
+[2018/05/31 09:48:11] Logged in user::
+[2018/05/31 09:48:11] UserLevel 6
+[2018/05/31 09:49:24] Logged in user::
+[2018/05/31 09:49:24] UserLevel 6
+[2018/05/31 10:02:20] Logged in user::
+[2018/05/31 10:02:20] UserLevel 6
+[2018/05/31 10:12:41] Logged in user::
+[2018/05/31 10:12:41] UserLevel 6
+{2018/06/01 09:25:17} RaspiMJPEG Version 5.8.06
+{2018/06/01 09:25:17} recommended video buffer size 65536
+{2018/06/01 09:25:17} h264 size set to 131072
+{2018/06/01 09:25:17} recommended video buffers 1
+{2018/06/01 09:25:17} h264 buffers set to recommended 1
+{2018/06/01 09:25:17} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2018/06/01 09:25:17} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2018/06/01 09:25:17} MJPEG streaming, ready to receive commands
+{2018/06/01 09:25:17} send smd 9
+[2018/06/01 09:25:19] RaspiCam support started
+[2018/06/01 09:25:19] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+[2018/06/01 09:25:19] Scheduler loop is started
+{2018/06/01 09:25:19} Starting command loop
+[2018/06/01 09:25:19] Reload parameters command requested
+[2018/06/01 09:25:19] Scheduler loop is started
+[2018/06/01 09:25:20] New period detected 0
+[2018/06/01 09:25:20] Scheduled management tasks. Next at 1527870320
+[2018/06/01 09:25:37] Logged in user::
+[2018/06/01 09:25:37] UserLevel 6
+[2018/06/01 09:26:14] Logged in user::
+[2018/06/01 09:26:14] UserLevel 6
+[2018/06/01 10:23:03] Logged in user::
+[2018/06/01 10:23:03] UserLevel 6
+[2018/06/01 10:25:21] Scheduled management tasks. Next at 1527873921
+{2018/06/04 09:21:08} RaspiMJPEG Version 5.8.06
+{2018/06/04 09:21:08} recommended video buffer size 65536
+{2018/06/04 09:21:08} h264 size set to 131072
+{2018/06/04 09:21:08} recommended video buffers 1
+{2018/06/04 09:21:08} h264 buffers set to recommended 1
+{2018/06/04 09:21:09} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2018/06/04 09:21:09} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2018/06/04 09:21:09} MJPEG streaming, ready to receive commands
+{2018/06/04 09:21:09} send smd 9
+[2018/06/04 09:21:10] RaspiCam support started
+[2018/06/04 09:21:10] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+[2018/06/04 09:21:10] Scheduler loop is started
+{2018/06/04 09:21:10} Starting command loop
+[2018/06/04 09:21:10] Reload parameters command requested
+[2018/06/04 09:21:10] Scheduler loop is started
+[2018/06/04 09:21:11] New period detected 0
+[2018/06/04 09:21:11] Scheduled management tasks. Next at 1528129271
+{2018/06/04 09:21:53} SIGINT/SIGTERM received, stopping
+{2018/06/04 09:25:25} RaspiMJPEG Version 5.8.06
+{2018/06/04 09:25:25} recommended video buffer size 65536
+{2018/06/04 09:25:25} h264 size set to 131072
+{2018/06/04 09:25:25} recommended video buffers 1
+{2018/06/04 09:25:25} h264 buffers set to recommended 1
+{2018/06/04 09:25:25} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2018/06/04 09:25:25} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2018/06/04 09:25:25} MJPEG streaming, ready to receive commands
+{2018/06/04 09:25:25} send smd 9
+[2018/06/04 09:25:26] RaspiCam support started
+[2018/06/04 09:25:26] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+[2018/06/04 09:25:26] Scheduler loop is started
+{2018/06/04 09:25:26} Starting command loop
+[2018/06/04 09:25:26] Reload parameters command requested
+[2018/06/04 09:25:26] Scheduler loop is started
+[2018/06/04 09:25:27] New period detected 0
+[2018/06/04 09:25:27] Scheduled management tasks. Next at 1528129527
+{2018/06/04 09:25:32} SIGINT/SIGTERM received, stopping
+[2018/06/04 10:10:45] Logged in user::
+[2018/06/04 10:10:45] UserLevel 6
+{2018/06/04 10:20:15} RaspiMJPEG Version 5.8.06
+{2018/06/04 10:20:15} recommended video buffer size 65536
+{2018/06/04 10:20:15} h264 size set to 131072
+{2018/06/04 10:20:15} recommended video buffers 1
+{2018/06/04 10:20:15} h264 buffers set to recommended 1
+{2018/06/04 10:20:15} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2018/06/04 10:20:15} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2018/06/04 10:20:15} MJPEG streaming, ready to receive commands
+{2018/06/04 10:20:15} send smd 9
+[2018/06/04 10:20:16] RaspiCam support started
+[2018/06/04 10:20:16] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+{2018/06/04 10:20:16} Starting command loop
+[2018/06/04 10:20:16] Scheduler loop is started
+[2018/06/04 10:20:16] Reload parameters command requested
+[2018/06/04 10:20:16] Scheduler loop is started
+[2018/06/04 10:20:17] New period detected 0
+[2018/06/04 10:20:17] Scheduled management tasks. Next at 1528132817
+[2018/06/04 10:20:49] Logged in user::
+[2018/06/04 10:20:49] UserLevel 6
+{2018/06/04 10:21:21} SIGINT/SIGTERM received, stopping
+[2018/06/04 10:22:31] Logged in user::
+[2018/06/04 10:22:31] UserLevel 6
+[2018/06/04 10:26:28] Logged in user::
+[2018/06/04 10:26:28] UserLevel 6
+[2018/06/04 10:27:55] Logged in user::
+[2018/06/04 10:27:55] UserLevel 6
+[2018/06/04 10:31:20] Logged in user::
+[2018/06/04 10:31:20] UserLevel 6
+[2018/06/04 10:32:09] Logged in user::
+[2018/06/04 10:32:09] UserLevel 6
+[2018/06/04 10:34:00] Logged in user::
+[2018/06/04 10:34:00] UserLevel 6
+[2018/06/04 10:34:34] Logged in user::
+[2018/06/04 10:34:34] UserLevel 6
+[2018/06/04 10:35:12] Logged in user::
+[2018/06/04 10:35:12] UserLevel 6
+{2018/06/04 10:56:12} RaspiMJPEG Version 5.8.06
+{2018/06/04 10:56:12} recommended video buffer size 65536
+{2018/06/04 10:56:12} h264 size set to 131072
+{2018/06/04 10:56:12} recommended video buffers 1
+{2018/06/04 10:56:12} h264 buffers set to recommended 1
+{2018/06/04 10:56:12} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2018/06/04 10:56:12} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2018/06/04 10:56:12} MJPEG streaming, ready to receive commands
+{2018/06/04 10:56:12} send smd 9
+[2018/06/04 10:56:13] RaspiCam support started
+[2018/06/04 10:56:13] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+{2018/06/04 10:56:13} Starting command loop
+[2018/06/04 10:56:13] Scheduler loop is started
+[2018/06/04 10:56:13] Reload parameters command requested
+[2018/06/04 10:56:13] Scheduler loop is started
+[2018/06/04 10:56:14] New period detected 0
+[2018/06/04 10:56:14] Scheduled management tasks. Next at 1528134974
+{2018/06/04 10:56:20} SIGINT/SIGTERM received, stopping
+{2018/06/04 10:56:22} RaspiMJPEG Version 5.8.06
+{2018/06/04 10:56:22} recommended video buffer size 65536
+{2018/06/04 10:56:22} h264 size set to 131072
+{2018/06/04 10:56:22} recommended video buffers 1
+{2018/06/04 10:56:22} h264 buffers set to recommended 1
+{2018/06/04 10:56:22} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2018/06/04 10:56:22} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2018/06/04 10:56:22} MJPEG streaming, ready to receive commands
+{2018/06/04 10:56:22} send smd 9
+[2018/06/04 10:56:23] RaspiCam support started
+[2018/06/04 10:56:23] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+{2018/06/04 10:56:23} Starting command loop
+[2018/06/04 10:56:23] Scheduler loop is started
+[2018/06/04 10:56:23] Reload parameters command requested
+[2018/06/04 10:56:23] Scheduler loop is started
+[2018/06/04 10:56:24] New period detected 0
+[2018/06/04 10:56:24] Scheduled management tasks. Next at 1528134984
+{2018/06/04 10:56:47} SIGINT/SIGTERM received, stopping
+{2018/06/04 10:56:49} RaspiMJPEG Version 5.8.06
+{2018/06/04 10:56:49} recommended video buffer size 65536
+{2018/06/04 10:56:49} h264 size set to 131072
+{2018/06/04 10:56:49} recommended video buffers 1
+{2018/06/04 10:56:49} h264 buffers set to recommended 1
+{2018/06/04 10:56:49} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2018/06/04 10:56:49} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2018/06/04 10:56:49} MJPEG streaming, ready to receive commands
+{2018/06/04 10:56:49} send smd 9
+[2018/06/04 10:56:50] RaspiCam support started
+[2018/06/04 10:56:50] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+[2018/06/04 10:56:50] Scheduler loop is started
+{2018/06/04 10:56:50} Starting command loop
+[2018/06/04 10:56:50] Reload parameters command requested
+[2018/06/04 10:56:50] Scheduler loop is started
+[2018/06/04 10:56:51] New period detected 0
+[2018/06/04 10:56:51] Scheduled management tasks. Next at 1528135011
+[2018/06/04 10:58:04] Logged in user::
+[2018/06/04 10:58:04] UserLevel 6
+{2018/06/04 10:59:54} SIGINT/SIGTERM received, stopping
+[2018/06/04 11:00:01] Logged in user::
+[2018/06/04 11:00:01] UserLevel 6
+{2018/06/04 11:01:14} RaspiMJPEG Version 5.8.06
+{2018/06/04 11:01:15} recommended video buffer size 65536
+{2018/06/04 11:01:15} h264 size set to 131072
+{2018/06/04 11:01:15} recommended video buffers 1
+{2018/06/04 11:01:15} h264 buffers set to recommended 1
+{2018/06/04 11:01:15} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2018/06/04 11:01:15} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2018/06/04 11:01:15} MJPEG streaming, ready to receive commands
+{2018/06/04 11:01:15} send smd 9
+[2018/06/04 11:01:16] RaspiCam support started
+[2018/06/04 11:01:16] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+{2018/06/04 11:01:16} Starting command loop
+[2018/06/04 11:01:16] Scheduler loop is started
+[2018/06/04 11:01:16] Reload parameters command requested
+[2018/06/04 11:01:16] Scheduler loop is started
+[2018/06/04 11:01:17] New period detected 0
+[2018/06/04 11:01:17] Scheduled management tasks. Next at 1528135277
+[2018/06/04 11:13:03] Logged in user::
+[2018/06/04 11:13:03] UserLevel 6
+{2018/06/04 11:17:08} SIGINT/SIGTERM received, stopping
+{2018/06/04 11:20:39} RaspiMJPEG Version 5.8.06
+{2018/06/04 11:20:39} recommended video buffer size 65536
+{2018/06/04 11:20:39} h264 size set to 131072
+{2018/06/04 11:20:39} recommended video buffers 1
+{2018/06/04 11:20:39} h264 buffers set to recommended 1
+{2018/06/04 11:20:39} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2018/06/04 11:20:39} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2018/06/04 11:20:39} MJPEG streaming, ready to receive commands
+{2018/06/04 11:20:39} send smd 9
+[2018/06/04 11:20:40] RaspiCam support started
+[2018/06/04 11:20:40] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+{2018/06/04 11:20:40} Starting command loop
+[2018/06/04 11:20:40] Scheduler loop is started
+[2018/06/04 11:20:40] Reload parameters command requested
+[2018/06/04 11:20:40] Scheduler loop is started
+[2018/06/04 11:20:41] New period detected 0
+[2018/06/04 11:20:41] Scheduled management tasks. Next at 1528136441
+[2018/06/04 11:41:34] Logged in user::
+[2018/06/04 11:41:34] UserLevel 6
+[2018/06/04 11:42:49] Logged in user::
+[2018/06/04 11:42:49] UserLevel 6
+[2018/06/04 12:06:09] Logged in user::
+[2018/06/04 12:06:09] UserLevel 6
+[2018/06/04 12:20:42] Scheduled management tasks. Next at 1528140042
+[2018/06/04 12:31:06] Logged in user::
+[2018/06/04 12:31:06] UserLevel 6
+[2018/06/05 10:07:50] Logged in user::
+[2018/06/05 10:07:50] UserLevel 6
+{2018/06/05 12:54:21} RaspiMJPEG Version 5.8.06
+{2018/06/05 12:54:22} recommended video buffer size 65536
+{2018/06/05 12:54:22} h264 size set to 131072
+{2018/06/05 12:54:22} recommended video buffers 1
+{2018/06/05 12:54:22} h264 buffers set to recommended 1
+{2018/06/05 12:54:22} Opening FIFO 0 /var/www/rpi_cam/FIFO 6
+{2018/06/05 12:54:22} Opening FIFO 1 /var/www/rpi_cam/FIFO11 7
+{2018/06/05 12:54:22} MJPEG streaming, ready to receive commands
+{2018/06/05 12:54:22} send smd 9
+[2018/06/05 12:54:23] RaspiCam support started
+[2018/06/05 12:54:23] Capture Pipe already exists /var/www/rpi_cam/FIFO1
+{2018/06/05 12:54:23} Starting command loop
+[2018/06/05 12:54:23] Scheduler loop is started
+[2018/06/05 12:54:23] Reload parameters command requested
+[2018/06/05 12:54:23] Scheduler loop is started
+[2018/06/05 12:54:24] New period detected 0
+[2018/06/05 12:54:24] Scheduled management tasks. Next at 1528228464
+[2018/06/05 12:55:55] Logged in user::
+[2018/06/05 12:55:55] UserLevel 6
+[2018/06/05 13:03:48] Logged in user::
+[2018/06/05 13:03:48] UserLevel 6
+[2018/06/05 13:08:41] Logged in user::
+[2018/06/05 13:08:41] UserLevel 6
+[2018/06/05 13:54:25] Scheduled management tasks. Next at 1528232065
+[2018/06/05 14:54:26] Scheduled management tasks. Next at 1528235666
+[2018/06/05 15:54:27] Scheduled management tasks. Next at 1528239267
+[2018/06/05 16:07:26] Logged in user::
+[2018/06/05 16:07:26] UserLevel 6
+[2018/06/05 16:21:30] Logged in user::
+[2018/06/05 16:21:30] UserLevel 6
+[2018/06/05 16:29:47] Logged in user::
+[2018/06/05 16:29:47] UserLevel 6
+[2018/06/05 16:29:49] Logged in user::
+[2018/06/05 16:29:49] UserLevel 6
+[2018/06/05 16:54:28] Scheduled management tasks. Next at 1528242868
+[2018/06/05 17:54:29] Scheduled management tasks. Next at 1528246469
+[2018/06/05 18:54:30] Scheduled management tasks. Next at 1528250070
+[2018/06/05 19:54:31] Scheduled management tasks. Next at 1528253671
+[2018/06/05 20:54:32] Scheduled management tasks. Next at 1528257272
+[2018/06/05 21:54:33] Scheduled management tasks. Next at 1528260873
+[2018/06/05 22:54:34] Scheduled management tasks. Next at 1528264474
+[2018/06/05 23:54:35] Scheduled management tasks. Next at 1528268075
+[2018/06/06 00:00:01] New period detected 0
+[2018/06/06 00:54:36] Scheduled management tasks. Next at 1528271676
+[2018/06/06 01:54:37] Scheduled management tasks. Next at 1528275277
+[2018/06/06 02:54:38] Scheduled management tasks. Next at 1528278878
+[2018/06/06 03:54:39] Scheduled management tasks. Next at 1528282479
+[2018/06/06 04:54:40] Scheduled management tasks. Next at 1528286080
+[2018/06/06 05:54:41] Scheduled management tasks. Next at 1528289681
+[2018/06/06 06:54:42] Scheduled management tasks. Next at 1528293282
+[2018/06/06 07:54:43] Scheduled management tasks. Next at 1528296883
+[2018/06/06 08:54:44] Scheduled management tasks. Next at 1528300484
+[2018/06/06 09:06:52] Logged in user::
+[2018/06/06 09:06:52] UserLevel 6
+[2018/06/06 09:29:41] Logged in user::
+[2018/06/06 09:29:41] UserLevel 6
+[2018/06/06 09:33:38] Logged in user::
+[2018/06/06 09:33:38] UserLevel 6
+[2018/06/06 09:38:26] Logged in user::
+[2018/06/06 09:38:26] UserLevel 6
+[2018/06/06 09:39:24] Logged in user::
+[2018/06/06 09:39:24] UserLevel 6
+[2018/06/06 09:40:19] Logged in user::
+[2018/06/06 09:40:19] UserLevel 6
+[2018/06/06 09:40:54] Logged in user::
+[2018/06/06 09:40:55] UserLevel 6
+[2018/06/06 09:41:17] Logged in user::
+[2018/06/06 09:41:17] UserLevel 6
+[2018/06/06 09:41:35] Logged in user::
+[2018/06/06 09:41:35] UserLevel 6
+[2018/06/06 09:42:05] Logged in user::
+[2018/06/06 09:42:05] UserLevel 6
+[2018/06/06 09:42:15] Logged in user::
+[2018/06/06 09:42:15] UserLevel 6
+[2018/06/06 09:43:19] Logged in user::
+[2018/06/06 09:43:19] UserLevel 6
+[2018/06/06 09:43:33] Logged in user::
+[2018/06/06 09:43:33] UserLevel 6
+[2018/06/06 09:44:05] Logged in user::
+[2018/06/06 09:44:05] UserLevel 6
+[2018/06/06 09:44:16] Logged in user::
+[2018/06/06 09:44:17] UserLevel 6
+[2018/06/06 09:47:15] Logged in user::
+[2018/06/06 09:47:15] UserLevel 6
+[2018/06/06 09:47:47] Logged in user::
+[2018/06/06 09:47:47] UserLevel 6
+[2018/06/06 09:54:45] Scheduled management tasks. Next at 1528304085
+[2018/06/06 09:55:33] Logged in user::
+[2018/06/06 09:55:33] UserLevel 6

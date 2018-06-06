@@ -135,10 +135,11 @@ def update_log_file(file_name,data):
                 f12=str('{:5.2f}'.format(data.w_eto))
                 f13=str('{:5.3f}'.format(data.ndvi_alpha))
                 f14=str('{:5.3f}'.format(data.ndvi_value))
-                print('    ','DATE               ',' ',sep='|')
-                print('    ',f1,' ',sep='|')
-                print('    ','SMC  ','SM1  ','SM2  ','SM3  ','V','FLOW ','RAD  ','TEMP ','HUM  ','WIND ','ETO  ','ALPHA','NDVI ',' ',sep='|')
-                print('    ',f2,f3,f4,f5,f6,f7,f8,f9,f10,f11,f12,f13,f14,' ',sep='|')
+                if data.verbose:
+                        print('    ','DATE               ',' ',sep='|')
+                        print('    ',f1,' ',sep='|')
+                        print('    ','SMC  ','SM1  ','SM2  ','SM3  ','V','FLOW ','RAD  ','TEMP ','HUM  ','WIND ','ETO  ','ALPHA','NDVI ',' ',sep='|')
+                        print('    ',f2,f3,f4,f5,f6,f7,f8,f9,f10,f11,f12,f13,f14,' ',sep='|')
                 
                 with open(file_name,"a") as csvfile:
                         writeCSV=csv.writer(csvfile, delimiter=',')

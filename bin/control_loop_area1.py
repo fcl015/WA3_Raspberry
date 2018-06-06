@@ -3,6 +3,7 @@
 import wa_xbee_comm
 import wa_config_data
 import wa_control
+import wa_iot_comm
 
 
 #---------------------------------------------------------------
@@ -18,6 +19,7 @@ class irrigation_area:
                 self.operation_mode_file='../config/operation_mode_area'+str(id)+'.csv'
                 self.log_file='../log/log_area'+str(id)+'.csv'
                 self.data_file='../data/data_area'+str(id)+'.csv'
+                self.verbose=0
 
                 Q=0.0
                 R=0.0
@@ -54,52 +56,70 @@ class irrigation_area:
 #---------------------------------------------------------------
 area1=irrigation_area(1)
 
-print("(1) Read configuration files")
+if area1.verbose:
+        print("(1) Read configuration files")
 wa_config_data.read_config_file(area1.config_file,area1)
 wa_config_data.read_operation_mode_file(area1.operation_mode_file,area1)
-print("    OPERATION MODE: "+area1.operation_mode)
+if area1.verbose:
+        print("    OPERATION MODE: "+area1.operation_mode)
 
-print("(2) Configure serial port")
+if area1.verbose:
+        print("(2) Configure serial port")
 ser = wa_xbee_comm.config_xbee_comm('/dev/ttyS0',9600)
 
-print("(3) Transmit message to sensor node")
+if area1.verbose:
+        print("(3) Transmit message to sensor node")
 wa_xbee_comm.transmit_sensor_message(ser,area1,'SEN1')
 
-print("(4) Extract data from sensor node")
+if area1.verbose:
+        print("(4) Extract data from sensor node")
 wa_xbee_comm.receive_sensor_message(ser,area1,'SEN1')
 
 if area1.comm_status:
 
-        print("(5) Calculate control action")
+        if area1.verbose:
+                print("(5) Calculate control action")
         wa_control.data_fusion(area1)
         wa_control.control_algorithm(area1)
 
-        print("(6) Transmit control action to actuator")
+        if area1.verbose:
+                print("(6) Transmit control action to actuator")
         wa_xbee_comm.transmit_actuator_message(ser,area1,'ACTUATOR')
 
-        print("(7) Receive confirmation from actuator")
+        if area1.verbose:
+                print("(7) Receive confirmation from actuator")
         wa_xbee_comm.receive_actuator_message(ser,area1,'ACTUATOR')
 
 else:
-        print("(5) No control action due SM data not available")
-        print("(6) No action transmit to actuator due SM data not available")
-        print("(7) No data receive from actuator due SM data not available")
+        if area1.verbose:
+                print("(5) No control action due SM data not available")
+                print("(6) No action transmit to actuator due SM data not available")
+                print("(7) No data receive from actuator due SM data not available")
         
         
-print("(8) Transmit message to weather node")
+if area1.verbose:
+        print("(8) Transmit message to weather node")
 wa_xbee_comm.transmit_weather_message(ser,area1,'WEATHER')
 
-print("(9) Extract data from weather sensor")
+if area1.verbose:
+        print("(9) Extract data from weather sensor")
 wa_xbee_comm.receive_weather_message(ser,area1,'WEATHER')        
 
-print("(10)Update configuration file")
+if area1.verbose:
+        print("(10)Update configuration file")
 wa_config_data.update_config_file(area1.config_file,area1)
 
-print("(11)Update data file")
+if area1.verbose:
+        print("(11)Update data file")
 wa_config_data.update_data_file(area1.data_file,area1)
 
-print("(12)Update log file")
+if area1.verbose:
+        print("(12)Update log file")
 wa_config_data.update_log_file(area1.log_file,area1)
 	
+if area1.verbose:
+        print("(13)Upload Data to ThingSpeak")
+wa_iot_comm.update_thingspeak(area1,'NBJZ3OJS90R9G2QM')
+
 
 

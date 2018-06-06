@@ -86,7 +86,8 @@ def receive_sensor_message(ser,data,message):
                         data.sm2=data_in[18]+data_in[19]/100
                         data.sm3=data_in[20]+data_in[21]/100
                         # Display data
-                        print("    SM1={0:5.2f}, SM2={1:5.2f}, SM3={2:5.2f}".format(data.sm1,data.sm2,data.sm3));
+                        if data.verbose:
+                                print("    SM1={0:5.2f}, SM2={1:5.2f}, SM3={2:5.2f}".format(data.sm1,data.sm2,data.sm3));
                         data.comm_status=1;
                 elif extra_data>0:
                         print("    ERROR Incorrect Message: {} extra-bytes received".format(extra_data))
@@ -184,13 +185,17 @@ def receive_actuator_message(ser,data,message):
                 if len(data_in)==input_message_size and extra_data==0:
                         # Extract data from received message
                         if v1=='1':
-                                print("    VALVE1_STATUS_SENT={0:d}, VALVE1_STATUS_RECEIVED={1:d}".format(data.valve_status,data_in[16]))
+                                if data.verbose:
+                                        print("    VALVE1_STATUS_SENT={0:d}, VALVE1_STATUS_RECEIVED={1:d}".format(data.valve_status,data_in[16]))
                         if v2=='1':
-                                print("    VALVE2_STATUS_SENT={0:d}, VALVE2_STATUS_RECEIVED={1:d}".format(data.valve_status,data_in[17]))
+                                if data.verbose:
+                                        print("    VALVE2_STATUS_SENT={0:d}, VALVE2_STATUS_RECEIVED={1:d}".format(data.valve_status,data_in[17]))
                         if v3=='1':        
-                                print("    VALVE3_STATUS_SENT={0:d}, VALVE3_STATUS_RECEIVED={1:d}".format(data.valve_status,data_in[18]))
+                                if data.verbose:
+                                        print("    VALVE3_STATUS_SENT={0:d}, VALVE3_STATUS_RECEIVED={1:d}".format(data.valve_status,data_in[18]))
                         data.valve_flow=data_in[19]+data_in[20]/100
-                        print("    FLOW={0:5.2f}".format(data.valve_flow))
+                        if data.verbose:
+                                print("    FLOW={0:5.2f}".format(data.valve_flow))
                         data.comm_status=1;
                 elif extra_data>0:
                         print("    ERROR Incorrect Message: {} extra-bytes received".format(extra_data))
@@ -276,7 +281,8 @@ def receive_weather_message(ser,data,message):
                         data.w_wind=data_in[22]+data_in[23]/100
                         data.w_eto=data_in[24]+data_in[25]/100
                         # Display data
-                        print("    RAD={0:5.0f}, HUM={1:5.2f}, TEMP={2:5.2f}, WIND={3:5.2f}, ETO={4:5.2f}".format(data.w_radiation,data.w_humidity,data.w_temperature,data.w_wind,data.w_eto));
+                        if data.verbose:
+                                print("    RAD={0:5.0f}, HUM={1:5.2f}, TEMP={2:5.2f}, WIND={3:5.2f}, ETO={4:5.2f}".format(data.w_radiation,data.w_humidity,data.w_temperature,data.w_wind,data.w_eto));
                         data.comm_status=1;
                 elif extra_data>0:
                         print("    ERROR Incorrect Message: {} extra-bytes received".format(extra_data))

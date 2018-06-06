@@ -1,0 +1,377 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    	<title>Smart Irrigation System</title>
+
+<!--------------------------------------------------------------------
+	Webiopi Java Script
+--------------------------------------------------------------------->
+    	<script type="text/javascript" src="/webiopi.js"></script>
+    	<script type="text/javascript">
+		webiopi().ready(init);
+        
+        // defines function passed previously to webiopi().ready()
+        function init() {
+                // automatically refresh UI each seconds
+                setInterval(updateUI, 1000);
+
+		// Create button to change operation mode
+        	var updateModeValue = function(macro, args, response) {
+			$("#inputMode").val(response);
+		}
+		webiopi().callMacro("getModeValue",[],updateModeValue);
+		var sendButton = webiopi().createButton("sendButton","Change", function() {
+			var modeValue=[$("#inputMode").val()];
+			webiopi().callMacro("setModeValue",modeValue,updateModeValue);
+		});
+		$("#controls").append(sendButton);
+
+
+		// Create button to activate irrigation, only for manual mode
+        	var updateManualValue = function(macro, args, response) {
+			$("#inputManual").val(response);
+		}
+		webiopi().callMacro("getManualValue",[],updateManualValue);
+		var sendButtonManual = webiopi().createButton("sendButton","Change", function() {
+			var manualValue=[$("#inputManual").val()];
+			webiopi().callMacro("setManualValue",manualValue,updateManualValue);
+		});
+		$("#manual").append(sendButtonManual);
+        }
+
+        // function called through setInterval
+        function updateUI() {
+                // call macros for Grove Pi sensors
+                webiopi().callMacro("getSensor", 0, sensorCallback);
+                webiopi().callMacro("getSensor", 1, sensorCallback);
+                webiopi().callMacro("getSensor", 2, sensorCallback);
+                webiopi().callMacro("getSensor", 3, sensorCallback);
+                webiopi().callMacro("getSensor", 4, sensorCallback);
+                webiopi().callMacro("getSensor", 5, sensorCallback);
+                webiopi().callMacro("getSensor", 6, sensorCallback);
+                webiopi().callMacro("getSensor", 7, sensorCallback);
+                webiopi().callMacro("getSensor", 8, sensorCallback);
+                webiopi().callMacro("getSensor", 9, sensorCallback);
+                webiopi().callMacro("getSensor", 10, sensorCallback);
+                webiopi().callMacro("getSensor", 11, sensorCallback);
+                webiopi().callMacro("getSensor", 12, sensorCallback);
+                webiopi().callMacro("getSensor", 13, sensorCallback);
+         }       
+
+        // callback function used to display sensor data
+        function sensorCallback(macroName, channel, data) {
+		if(channel==0){
+                       	$("#sensor"+channel).css("color", "White");
+                       	$("#sensor"+channel).css("font-weight", "normal");
+                       	$("#sensor"+channel).css("font-size", "12pt");
+			$("#sensor"+channel).text(data);
+		}
+		else{
+			$("#sensor"+channel).css("background-color", "White");
+                       	$("#sensor"+channel).css("color", "Blue");
+                       	$("#sensor"+channel).css("font-weight", "bold");
+                       	$("#sensor"+channel).css("font-size", "28pt");
+			$("#sensor"+channel).text(data);
+		}		
+        }
+    	</script>
+
+    	<style type="text/css">
+    	button {
+             display: block;
+             margin: 5px 5px 5px 5px;
+             width: 200px;
+             height: 60px;
+             font-size: 28pt;
+             font-weight: bold;
+             color: white;
+	     background-color: black;
+           }
+    	</style>
+	
+<!--------------------------------------------------------------------
+	Webpage style configuration
+--------------------------------------------------------------------->
+	<style>
+	* {
+	    box-sizing: border-box;
+	}
+	
+	body {
+	    font-family: Arial, Helvetica, sans-serif;
+	    margin: 0;
+	}
+	
+	/* Style the header */
+	.header {
+	    padding: 20px;
+	    text-align: center;
+	    background: #1abc9c;
+	    color: white;
+	}
+	
+	/* Increase the font size of the h1 element */
+	.header h1 {
+	    font-size: 40px;
+	}
+	
+	/* Style the top navigation bar */
+	.navbar {
+	    overflow: hidden;
+	    background-color: #333;
+	}
+	
+	/* Style the navigation bar links */
+	.navbar a {
+	    float: left;
+	    display: block;
+	    color: white;
+	    text-align: center;
+	    padding: 14px 20px;
+	    text-decoration: none;
+	}
+	
+	/* Right-aligned link */
+	.navbar a.right {
+	    float: right;
+	}
+	
+	/* Change color on hover */
+	.navbar a:hover {
+	    background-color: #ddd;
+	    color: black;
+	}
+	
+	/* Column container */
+	.row {  
+	    display: flex;
+	    flex-wrap: wrap;
+	}
+	
+	/* Create two unequal columns that sits next to each other */
+	/* Sidebar/left column */
+	.side {
+	    flex: 30%;
+	    background-color: #f1f1f1;
+	    padding: 20px;
+	}
+	
+	/* Main column */
+	.main {   
+	    flex: 70%;
+	    background-color: white;
+	    padding: 20px;
+	}
+	
+	/* Fake image, just for this example */
+	.fakeimg {
+	    background-color: #aaa;
+	    width: 100%;
+	    padding: 20px;
+	}
+	
+	/* Footer */
+	.footer {
+	    padding: 20px;
+	    text-align: center;
+	    background: #ddd;
+	}
+	
+	/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+	@media screen and (max-width: 700px) {
+	    .row {   
+	        flex-direction: column;
+	    }
+	}
+	
+	/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+	@media screen and (max-width: 400px) {
+	    .navbar a {
+	        float: none;
+	        width:100%;
+	    }
+	}
+	</style>
+
+
+</head>
+
+<!--------------------------------------------------------------------
+	Webpage content
+--------------------------------------------------------------------->
+<body>
+	<div class="header">
+	  <h1>Area 1: Monitor and Control</h1>
+	  <p>Last Updated: <span id="sensor0"></span></p>
+	</div>
+
+	<hr>
+	<div style="font-size:20pt;font-weight:bold;text-align:center;color:white;background-color:black">
+	Soil Moisture
+	</div>
+	<hr>
+	<table border="0"; style="width:100%">
+	<tr bgcolor="#EAEDED">
+	   <td align="center"><span style="font-size:20pt;color:black">Average</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">Sensor 1</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">Sensor 2</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">Sensor 3</span></td>
+	</tr>
+	<tr bgcolor="#EAEDED">
+	   <td align="center"><span style="font-size:20pt;color:black">(%vwc)</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">(%vwc)</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">(%vwc)</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">(%vwc)</span></td>
+	</tr>
+	<tr>
+	   <td align="center"><span id="sensor1"></span></td>
+	   <td align="center"><span id="sensor2"></span></td>
+	   <td align="center"><span id="sensor3"></span></td>
+	   <td align="center"><span id="sensor4"></span></td>
+	</tr>
+	</table>
+
+	<hr>
+	<div style="font-size:20pt;font-weight:bold;text-align:center;color:white;background-color:black">
+	Valve Information
+	</div>
+	<hr>
+	<table border="0"; style="width:100%">
+	<tr bgcolor="#EAEDED">
+	   <td align="center"><span style="font-size:20pt;color:black">Valve Status</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">Valve Flow</span></td>
+	</tr>
+	<tr bgcolor="#EAEDED">
+	   <td align="center"><span style="font-size:20pt;color:black">(on/off)</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">(lpm)</span></td>
+	</tr>
+	<tr>
+	   <td align="center"><span id="sensor5"></span></td>
+	   <td align="center"><span id="sensor6"></span></td>
+	</tr>
+	</table>
+
+
+	<hr>
+	<div style="font-size:20pt;font-weight:bold;text-align:center;color:white;background-color:black">
+	Weather Data
+	</div>
+	<hr>
+	<table border="0"; style="width:100%">
+	<tr bgcolor="#EAEDED">
+	   <td align="center"><span style="font-size:20pt;color:black">Radiation</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">Temperature</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">Humidity</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">Wind</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">ETo</span></td>
+	</tr>
+	<tr bgcolor="#EAEDED">
+	   <td align="center"><span style="font-size:20pt;color:black">(W/m2)</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">(oC)</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">(%)</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">(m/s)</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">(mm/day)</span></td>
+	</tr>
+	<tr>
+	   <td align="center"><span id="sensor7"></span></td>
+	   <td align="center"><span id="sensor8"></span></td>
+	   <td align="center"><span id="sensor9"></span></td>
+	   <td align="center"><span id="sensor10"></span></td>
+	   <td align="center"><span id="sensor11"></span></td>
+	</tr>
+	</table>
+
+	<hr>
+	<div style="font-size:20pt;font-weight:bold;text-align:center;color:white;background-color:black">
+	Normalized Differential Vegetation Index
+	</div>
+	<hr>
+	<table border="0"; style="width:100%">
+	<tr bgcolor="#EAEDED">
+	   <td align="center"><span style="font-size:20pt;color:black">Alpha</span></td>
+	   <td align="center"><span style="font-size:20pt;color:black">NDVI</span></td>
+	</tr>
+	<tr>
+	   <td align="center"><span id="sensor12"></span></td>
+	   <td align="center"><span id="sensor13"></span></td>
+	</tr>
+	</table>
+
+	<hr>
+	<div style="font-size:20pt;font-weight:bold;text-align:center;color:white;background-color:black">
+	Operation Mode
+	</div>
+	<hr>
+	<table border="0"; style="width:100%">
+	<tr bgcolor="#EAEDED">
+		<td align="center"></td>
+		<td align="center">
+		<span style="font-size:20pt;color:black;"> 0-Manual, 1-Scheduler, 2-Automatic</span>
+		</td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"></td>
+		<td align="center">
+		<input style="font-size:32pt;text-align:center;color:blue;font-weight:bold;height:50px;width:200px" type="text" id="inputMode" /><br/>
+		</td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"></td>
+		<td align="center"><div id="controls"></div></td>
+		<td align="center"></td>
+	</tr>
+	</table>
+
+
+	<hr>
+	<div style="font-size:20pt;font-weight:bold;text-align:center;color:white;background-color:black">
+	Irrigation Control (Manual Mode Only)
+	</div>
+	<hr>
+	<table border="0"; style="width:100%">
+	<tr bgcolor="#EAEDED">
+		<td align="center"></td>
+		<td align="center">
+		<span style="font-size:20pt;color:black;"> 0-Deactivate, 1-Activate</span>
+		</td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"></td>
+		<td align="center">
+		<input style="font-size:32pt;text-align:center;color:blue;font-weight:bold;height:50px;width:200px" type="text" id="inputManual" /><br/>
+		</td>
+		<td align="center"></td>
+	</tr>
+	<tr>
+		<td align="center"></td>
+		<td align="center"><div id="manual"></div></td>
+		<td align="center"></td>
+	</tr>
+	</table>
+
+<!--------------------------------------------------------------------
+	<hr>
+	<div style="font-size:20pt;font-weight:bold;text-align:center;color:white;background-color:black">
+	Real Time Video Streaming
+	</div>
+	<hr>
+	
+	<div style="text-align:center">
+		<iframe src="http://10.34.57.255/rpi_cam?action=stream" width="800" height="460"/></iframe>
+	</script>
+
+	</div>
+--------------------------------------------------------------------->
+
+	<div class="footer">
+	  <h4 id="contact">Tecnologico de Monterrey, 2018</h4>
+	  <h4>Contact: camilo.lozoya@itesm.mx</h4>
+	</div>
+
+</body>
+</html>
+

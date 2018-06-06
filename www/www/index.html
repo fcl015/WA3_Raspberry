@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Water Automation Home Page</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+/* Style the header */
+.header {
+    padding: 20px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+}
+
+/* Increase the font size of the h1 element */
+.header h1 {
+    font-size: 40px;
+}
+
+/* Style the top navigation bar */
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+}
+
+/* Style the navigation bar links */
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+/* Right-aligned link */
+.navbar a.right {
+    float: right;
+}
+
+/* Change color on hover */
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Column container */
+.row {  
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.side {
+    flex: 30%;
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+
+/* Main column */
+.main {   
+    flex: 70%;
+    background-color: white;
+    padding: 20px;
+}
+
+/* Fake image, just for this example */
+.fakeimg {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+}
+
+/* Footer */
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+}
+
+/* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+    .row {   
+        flex-direction: column;
+    }
+}
+
+/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+    .navbar a {
+        float: none;
+        width:100%;
+    }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Smart Irrigation System</h1>
+  <p>An intranet application created by Tec de Monterrey Campus Chihuahua.</p>
+</div>
+
+<div class="navbar">
+  <a href="http://10.34.57.255">Home</a>
+  <a href="http://10.34.57.255:8000">Monitor and Control</a>
+  <a href="http://10.34.57.255:8000/camera.html">Real Time Stream Video</a>
+  <a href="https://thingspeak.com/channels/508943">IoT ThingSpeak</a>
+  <a href="http://10.34.57.255/#contact" class="right">Contact</a>
+</div>
+
+<div class="row">
+  <div class="side">
+      <h2>Motivation</h2>
+      <p>Agricuture is the major water consumer globally, it uses 70% of available fresh water worldwide.</p>
+      <p>World average efficiency of agriculture irrigation is about 50%-60%.</p>
+      <p>Deficient irrigation management causes water waste and reduces crop productivity.</p>
+       <img src="./images/cultivo_nogal.jpg" alt="Pecan Crop" width="300"> 
+      <h2>Precision Irrigation</h2>
+      <p>Precision irrigation refers to the management of the irrigation
+        scheduling according to the crop requirements.</p>
+      <p>The amount of water applied to the crop, is based on measurements
+        of soil, crop and weather variables that reflects the status of
+        the plant.</p>
+       <img src="./images/cultivo_chile.jpg" alt="Pepper Crop" width="300"> 
+      <h2>Goals</h2>
+      <p>Increment of water efficiency, reduction of energy
+        consumption and maximization of crop productivity, by
+        using technology such as wireless sensor networks, mobile
+        devices, remote sensing, real-time control and internet of things.</p>
+        <img src="./images/cultivo_maiz.jpg" alt="Maize Crop" width="300"> 
+  </div>
+  <div class="main">
+      <h2>System Architecture</h2>
+      <p>The experimental platform consist on a data acquisition and control system. 
+      A modular and scalable design approach is considered in order to provide different levels of access
+      with diffrent data contents. </p>
+     <img src="./images/architecture.jpg" alt="System Architecture" width="400"> 
+      <h3>Sensor and Actuator Nodes</h3>
+      <p>The sensor node contains three soil moisture sensors to measure volumetric water conten at the crop root level. 
+     The actuator node controls and irrigation valve and measures water flow.
+     There are three types of operation modes: manual (valves are activated by the user), scheduler 
+     (irrigation is activated automatically according to a weekly scheduling) and automatic 
+     (irrigation is activated automatically according to soil moisture levels).</p>
+     <img src="./images/irrigation_area.jpg" alt="Irrigation Area" width="400"> 
+      <h3>Weather and Controller Nodes</h3>
+      <p>The weather node is used to calculate the reference evapotranspiration ETo from the environmental
+     variables according to the Penman-Monteith formula. The controller node produces aggregated information from
+     different sensor raw data. The wireles sensor network is implemented over the IEEE 802.15.4 communication protocol. 
+     The controller node includes an internet access to upload information to cloud IoT platform like ThingSpeak.   </p>
+     <img src="./images/sensors_actuators.jpg" alt="Sensors and Actuators" width="400"> 
+  </div>
+</div>
+
+<div class="footer">
+  <h4 id="contact">Tecnologico de Monterrey, 2018</h4>
+  <h4>Contact: camilo.lozoya@itesm.mx</h4>
+</div>
+
+</body>
+</html>
+
