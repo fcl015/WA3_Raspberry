@@ -1,7 +1,7 @@
-0,9,20,9,23,Monday
-1,9,20,9,23,Tueday
-2,18,30,19,00,Wednesday
-3,10,13,10,15,Thursday
-4,18,30,19,00,Friday
-5,9,20,9,23,Saturday
-6,0,00,0,00,Sunday
+0,09,00,10,30,Monday
+1,09,00,10,30,Tueday
+2,18,30,20,15,Wednesday
+3,10,30,12,15,Thursday
+4,18,30,20,15,Friday
+5,00,00,00,00,Saturday
+6,00,00,00,00,Sunday

@@ -1219,3 +1219,3429 @@ mié jun  6 10:05:01 MDT 2018
 Starting WA3 control loop area process
     Control algorithm in MANUAL mode
 Ending WA3 control loop area process
+mié jun  6 10:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 10:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 10:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 10:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 10:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 10:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 10:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 10:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 10:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 10:51:19 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 10:52:22 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 10:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 11:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 11:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 11:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 11:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 11:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 11:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 11:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 11:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 11:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 11:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 11:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 11:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 12:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 12:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 12:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 12:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 12:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 12:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 12:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 12:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 12:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 12:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 12:50:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 12:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 13:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 13:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 13:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 13:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 13:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 13:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 13:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 13:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 13:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 13:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 13:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 13:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 14:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 14:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 14:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 14:15:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 14:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 14:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 14:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 14:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 14:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 14:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 14:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 14:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 15:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 15:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 15:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 15:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 15:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 15:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 15:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 15:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 15:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 15:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 15:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 15:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 16:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 16:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 16:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 16:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 16:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 16:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 16:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 16:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 16:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 16:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 16:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 16:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 17:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 17:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 17:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 17:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 17:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 17:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 17:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 17:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 17:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 17:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 17:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 17:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 18:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 18:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 18:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 18:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 18:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 18:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 18:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 18:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 18:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 18:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 18:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 18:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 19:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 19:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 19:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 19:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 19:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 19:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 19:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 19:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 19:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 19:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 19:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 19:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 20:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 20:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 20:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 20:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 20:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 20:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 20:30:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 20:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 20:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 20:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 20:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 20:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 21:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 21:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 21:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 21:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 21:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 21:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 21:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 21:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 21:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 21:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 21:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 21:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 22:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 22:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 22:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 22:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 22:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 22:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 22:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 22:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 22:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 22:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 22:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 22:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 23:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 23:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 23:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 23:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 23:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 23:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 23:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 23:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 23:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 23:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 23:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+mié jun  6 23:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 00:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 00:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 00:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 00:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 00:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 00:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 00:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 00:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 00:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 00:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 00:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 00:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 01:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 01:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 01:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 01:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 01:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 01:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 01:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 01:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 01:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 01:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 01:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 01:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 02:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 02:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 02:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 02:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 02:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 02:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 02:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 02:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 02:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 02:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 02:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 02:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 03:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 03:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 03:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 03:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 03:20:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 03:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 03:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 03:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 03:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 03:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 03:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 03:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 04:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 04:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 04:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 04:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 04:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 04:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 04:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 04:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 04:40:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 04:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 04:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 04:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 05:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 05:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 05:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 05:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 05:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 05:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 05:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 05:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 05:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 05:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 05:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 05:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 06:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 06:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 06:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 06:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 06:20:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 06:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 06:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 06:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 06:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 06:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 06:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 06:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 07:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 07:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 07:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 07:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 07:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 07:25:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 07:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 07:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 07:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 07:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 07:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 07:55:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 08:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 08:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 08:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 08:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 08:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 08:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 08:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 08:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 08:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 08:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 08:50:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 08:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 09:00:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 09:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 09:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 09:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 09:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 09:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 09:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 09:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 09:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 09:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 09:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 09:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 10:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 10:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 10:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 10:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 10:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 10:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 10:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 10:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 10:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 10:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 10:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 10:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 11:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 11:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 11:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 11:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 11:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 11:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 11:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 11:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 11:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 11:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 11:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 11:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 12:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 12:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 12:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 12:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 12:20:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 12:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 12:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 12:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 12:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 12:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 12:50:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 12:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 13:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 13:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 13:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 13:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 13:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 13:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 13:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 13:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 13:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 13:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 13:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 13:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 14:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 14:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 14:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 14:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 14:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 14:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 14:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 14:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 14:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 14:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 14:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 14:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 15:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 15:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 15:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 15:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 15:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 15:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 15:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 15:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 15:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 15:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 15:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 15:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 16:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 16:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 16:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 16:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 16:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 16:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 16:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 16:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 16:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 16:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 16:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 16:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 17:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 17:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 17:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 17:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 17:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 17:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 17:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 17:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 17:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 17:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 17:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 17:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 18:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 18:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 18:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 18:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 18:20:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 18:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 18:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 18:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 18:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 18:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 18:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 18:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 19:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 19:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 19:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 19:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 19:20:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 19:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 19:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 19:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 19:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 19:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 19:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 19:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 20:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 20:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 20:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 20:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 20:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 20:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 20:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 20:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 20:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 20:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 20:50:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 20:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 21:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 21:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 21:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 21:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 21:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 21:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 21:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 21:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 21:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 21:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 21:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 21:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 22:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 22:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 22:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 22:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 22:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 22:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 22:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 22:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 22:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 22:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 22:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 22:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 23:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 23:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 23:10:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 23:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 23:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 23:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 23:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 23:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 23:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 23:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 23:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+jue jun  7 23:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 00:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 00:05:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 00:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 00:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 00:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 00:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 00:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 00:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 00:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 00:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 00:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 00:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 01:00:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 01:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 01:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 01:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 01:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 01:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 01:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 01:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 01:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 01:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 01:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 01:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 02:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 02:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 02:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 02:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 02:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 02:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 02:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 02:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 02:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 02:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 02:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 02:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 03:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 03:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 03:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 03:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 03:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 03:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 03:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 03:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 03:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 03:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 03:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 03:55:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 04:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 04:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 04:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 04:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 04:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 04:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 04:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 04:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 04:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 04:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 04:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 04:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 05:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 05:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 05:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 05:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 05:20:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 05:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 05:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 05:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 05:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 05:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 05:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 05:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 06:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 06:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 06:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 06:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 06:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 06:25:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 06:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 06:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 06:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 06:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 06:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 06:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 07:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 07:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 07:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 07:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 07:20:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 07:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 07:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 07:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 07:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 07:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 07:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 07:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 08:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 08:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 08:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 08:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 08:20:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 08:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 08:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 08:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 08:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 08:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 08:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 08:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 09:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 09:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 09:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 09:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 09:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 09:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 09:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 09:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 09:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 09:45:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 09:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 09:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 10:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 10:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 10:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 10:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 10:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 10:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 10:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 10:35:04 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 10:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 10:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 10:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 10:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 11:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 11:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 11:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 11:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 11:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 11:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 11:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 11:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 11:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 11:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 11:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 11:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 12:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 12:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 12:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 12:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 12:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 12:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 12:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 12:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 12:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 12:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 12:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 12:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 13:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 13:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 13:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 13:15:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 13:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 13:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 13:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 13:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 13:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 13:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 13:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 13:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 14:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 14:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 14:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 14:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 14:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 14:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 14:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 14:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 14:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 14:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 14:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 14:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 15:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 15:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 15:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 15:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 15:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 15:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 15:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 15:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 15:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 15:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 15:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 15:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 16:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 16:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 16:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 16:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 16:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 16:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 16:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 16:35:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 16:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 16:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 16:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 16:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 17:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 17:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 17:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 17:15:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 17:20:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 17:25:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 17:30:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 17:35:02 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 17:40:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 17:45:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 17:50:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 17:55:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 18:00:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 18:05:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 18:10:01 MDT 2018
+Starting WA3 control loop area process
+    Control algorithm in MANUAL mode
+Ending WA3 control loop area process
+vie jun  8 19:36:34 MDT 2018
+Starting WA3 control loop area process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=61.03, SM2=59.19, SM3=61.61
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=60.61
+    SM1_KAL=60.64
+    Control algorithm in MANUAL mode
+    Valve status (1)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=1, VALVE1_STATUS_RECEIVED=1
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=32.55, TEMP=26.39, WIND= 0.00, ETO= 0.86
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-08 19:36:36| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |60.64|61.03|59.19|61.61|1| 0.00|    0|26.39|32.55| 0.00| 0.86|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 control loop area process
+vie jun  8 19:36:40 MDT 2018
+Starting WA3 control loop area process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=61.03, SM2=59.19, SM3=61.61
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=60.61
+    SM1_KAL=60.62
+    Control algorithm in MANUAL mode
+    Valve status (0)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=0, VALVE1_STATUS_RECEIVED=0
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=32.55, TEMP=26.39, WIND= 0.00, ETO= 0.86
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-08 19:36:42| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |60.62|61.03|59.19|61.61|0| 0.00|    0|26.39|32.55| 0.00| 0.86|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 control loop area process
+vie jun  8 19:37:22 MDT 2018
+Starting WA3 control loop area process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=61.03, SM2=59.19, SM3=61.61
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=60.61
+    SM1_KAL=60.61
+    Control algorithm in MANUAL mode
+    Valve status (0)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=0, VALVE1_STATUS_RECEIVED=0
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=32.55, TEMP=26.39, WIND= 0.13, ETO= 1.04
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-08 19:37:25| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |60.61|61.03|59.19|61.61|0| 0.00|    0|26.39|32.55| 0.13| 1.04|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 control loop area process
+vie jun  8 19:37:25 MDT 2018
+Starting WA3 control loop area process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=61.03, SM2=59.19, SM3=61.61
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=60.61
+    SM1_KAL=60.61
+    Control algorithm in MANUAL mode
+    Valve status (0)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=0, VALVE1_STATUS_RECEIVED=0
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=32.55, TEMP=26.39, WIND= 0.13, ETO= 1.04
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-08 19:37:27| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |60.61|61.03|59.19|61.61|0| 0.00|    0|26.39|32.55| 0.13| 1.04|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 control loop area process
+vie jun  8 19:37:28 MDT 2018
+Starting WA3 control loop area process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=61.03, SM2=59.19, SM3=61.61
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=60.61
+    SM1_KAL=60.61
+    Control algorithm in MANUAL mode
+    Valve status (0)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=0, VALVE1_STATUS_RECEIVED=0
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=32.55, TEMP=26.39, WIND= 0.13, ETO= 1.04
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-08 19:37:30| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |60.61|61.03|59.19|61.61|0| 0.00|    0|26.39|32.55| 0.13| 1.04|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 control loop area process
+vie jun  8 19:37:31 MDT 2018
+Starting WA3 control loop area process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=61.03, SM2=59.19, SM3=61.61
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=60.61
+    SM1_KAL=60.61
+    Control algorithm in MANUAL mode
+    Valve status (0)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=0, VALVE1_STATUS_RECEIVED=0
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=32.55, TEMP=26.39, WIND= 0.13, ETO= 1.04
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-08 19:37:33| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |60.61|61.03|59.19|61.61|0| 0.00|    0|26.39|32.55| 0.13| 1.04|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 control loop area process
+vie jun  8 19:37:33 MDT 2018
+Starting WA3 control loop area process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=61.03, SM2=59.19, SM3=61.61
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=60.61
+    SM1_KAL=60.61
+    Control algorithm in MANUAL mode
+    Valve status (0)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=0, VALVE1_STATUS_RECEIVED=0
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=32.55, TEMP=26.39, WIND= 0.13, ETO= 1.04
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-08 19:37:35| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |60.61|61.03|59.19|61.61|0| 0.00|    0|26.39|32.55| 0.13| 1.04|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 control loop area process
+vie jun  8 19:37:36 MDT 2018
+Starting WA3 control loop area process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=61.03, SM2=59.19, SM3=61.61
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=60.61
+    SM1_KAL=60.61
+    Control algorithm in MANUAL mode
+    Valve status (0)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=0, VALVE1_STATUS_RECEIVED=0
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=32.55, TEMP=26.39, WIND= 0.13, ETO= 1.04
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-08 19:37:38| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |60.61|61.03|59.19|61.61|0| 0.00|    0|26.39|32.55| 0.13| 1.04|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 control loop area process
+vie jun  8 19:37:39 MDT 2018
+Starting WA3 control loop area process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=60.93, SM2=59.19, SM3=61.61
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=60.58
+    SM1_KAL=60.59
+    Control algorithm in MANUAL mode
+    Valve status (0)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=0, VALVE1_STATUS_RECEIVED=0
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=32.55, TEMP=26.39, WIND= 0.13, ETO= 1.04
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-08 19:37:41| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |60.59|60.93|59.19|61.61|0| 0.00|    0|26.39|32.55| 0.13| 1.04|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 control loop area process
+vie jun  8 19:37:41 MDT 2018
+Starting WA3 control loop area process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=61.03, SM2=59.19, SM3=61.61
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=60.61
+    SM1_KAL=60.60
+    Control algorithm in MANUAL mode
+    Valve status (1)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=1, VALVE1_STATUS_RECEIVED=1
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=32.55, TEMP=26.39, WIND= 0.13, ETO= 1.04
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-08 19:37:43| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |60.60|61.03|59.19|61.61|1| 0.00|    0|26.39|32.55| 0.13| 1.04|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 control loop area process
+vie jun  8 19:37:45 MDT 2018
+Starting WA3 control loop area process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=61.03, SM2=59.09, SM3=61.61
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=60.58
+    SM1_KAL=60.59
+    Control algorithm in MANUAL mode
+    Valve status (1)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=1, VALVE1_STATUS_RECEIVED=1
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=32.55, TEMP=26.39, WIND= 0.13, ETO= 1.04
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-08 19:37:47| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |60.59|61.03|59.09|61.61|1| 0.00|    0|26.39|32.55| 0.13| 1.04|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 control loop area process
+vie jun  8 19:37:49 MDT 2018
+Starting WA3 control loop area process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=61.03, SM2=59.19, SM3=61.61
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=60.61
+    SM1_KAL=60.60
+    Control algorithm in MANUAL mode
+    Valve status (1)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=1, VALVE1_STATUS_RECEIVED=1
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=32.55, TEMP=26.39, WIND= 0.13, ETO= 1.04
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-08 19:37:51| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |60.60|61.03|59.19|61.61|1| 0.00|    0|26.39|32.55| 0.13| 1.04|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 control loop area process
+vie jun  8 19:37:55 MDT 2018
+Starting WA3 control loop area process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=61.03, SM2=59.19, SM3=61.61
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=60.61
+    SM1_KAL=60.61
+    Control algorithm in MANUAL mode
+    Valve status (0)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=0, VALVE1_STATUS_RECEIVED=0
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=32.55, TEMP=26.39, WIND= 0.13, ETO= 1.04
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-08 19:37:57| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |60.61|61.03|59.19|61.61|0| 0.00|    0|26.39|32.55| 0.13| 1.04|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 control loop area process
+lun jun 11 08:30:53 MDT 2018
+Starting WA3 control loop area process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=86.16, SM2=82.96, SM3=87.06
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=85.39
+    SM1_KAL=73.06
+    Control algorithm in MANUAL mode
+    Valve status (1)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=1, VALVE1_STATUS_RECEIVED=1
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=36.10, TEMP=26.10, WIND= 0.00, ETO= 0.83
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-11 08:30:59| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |73.06|86.16|82.96|87.06|1| 0.00|    0|26.10|36.10| 0.00| 0.83|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 control loop area process
+lun jun 11 08:31:03 MDT 2018
+Starting WA3 control loop area process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=60.54, SM2=58.13, SM3=61.22
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=59.96
+    SM1_KAL=66.48
+    Control algorithm in MANUAL mode
+    Valve status (0)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=0, VALVE1_STATUS_RECEIVED=0
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=36.10, TEMP=26.10, WIND= 0.00, ETO= 0.83
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-11 08:31:05| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |66.48|60.54|58.13|61.22|0| 0.00|    0|26.10|36.10| 0.00| 0.83|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 control loop area process
+lun jun 11 08:36:40 MDT 2018
+Starting WA3 control loop area process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=60.54, SM2=58.13, SM3=61.22
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=59.96
+    SM1_KAL=63.21
+    Control algorithm in MANUAL mode
+    Valve status (1)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=1, VALVE1_STATUS_RECEIVED=1
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=36.10, TEMP=26.10, WIND= 0.00, ETO= 0.83
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-11 08:36:42| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |63.21|60.54|58.13|61.22|1| 0.00|    0|26.10|36.10| 0.00| 0.83|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 control loop area process
+lun jun 11 08:36:45 MDT 2018
+Starting WA3 control loop area process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=60.54, SM2=58.13, SM3=61.22
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=59.96
+    SM1_KAL=61.58
+    Control algorithm in MANUAL mode
+    Valve status (0)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=0, VALVE1_STATUS_RECEIVED=0
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=36.10, TEMP=26.10, WIND= 0.00, ETO= 0.83
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-11 08:36:47| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |61.58|60.54|58.13|61.22|0| 0.00|    0|26.10|36.10| 0.00| 0.83|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 control loop area process
+lun jun 11 08:54:11 MDT 2018
+Starting WA3 Area 1 control loop process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=60.54, SM2=58.13, SM3=61.22
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=59.96
+    SM1_KAL=60.77
+    Control algorithm in MANUAL mode
+    Valve status (1)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=1, VALVE1_STATUS_RECEIVED=1
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=36.10, TEMP=26.10, WIND= 0.00, ETO= 0.83
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-11 08:54:13| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |60.77|60.54|58.13|61.22|1| 0.00|    0|26.10|36.10| 0.00| 0.83|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 Area 1 control loop process
+lun jun 11 08:54:18 MDT 2018
+Starting WA3 Area 1 control loop process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=60.54, SM2=58.13, SM3=61.22
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=59.96
+    SM1_KAL=60.36
+    Control algorithm in MANUAL mode
+    Valve status (0)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=0, VALVE1_STATUS_RECEIVED=0
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=36.10, TEMP=26.10, WIND= 0.00, ETO= 0.83
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-11 08:54:20| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |60.36|60.54|58.13|61.22|0| 0.00|    0|26.10|36.10| 0.00| 0.83|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 Area 1 control loop process
+lun jun 11 09:21:19 MDT 2018
+Starting WA3 Area 1 control loop process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=60.54, SM2=58.22, SM3=61.22
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=59.99
+    SM1_KAL=60.18
+    Control algorithm in MANUAL mode
+    Valve status (1)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=1, VALVE1_STATUS_RECEIVED=1
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=36.92, TEMP=25.30, WIND= 0.00, ETO= 0.82
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-11 09:21:21| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |60.18|60.54|58.22|61.22|1| 0.00|    0|25.30|36.92| 0.00| 0.82|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 Area 1 control loop process
+lun jun 11 09:21:26 MDT 2018
+Starting WA3 Area 1 control loop process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=60.54, SM2=58.22, SM3=61.22
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=59.99
+    SM1_KAL=60.09
+    Control algorithm in MANUAL mode
+    Valve status (0)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=0, VALVE1_STATUS_RECEIVED=0
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=36.92, TEMP=25.30, WIND= 0.00, ETO= 0.82
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-11 09:21:28| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |60.09|60.54|58.22|61.22|0| 0.00|    0|25.30|36.92| 0.00| 0.82|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 Area 1 control loop process
+lun jun 11 09:28:25 MDT 2018
+Starting WA3 Area 4 control loop process
+Ending WA3 Area 4 control loop process
+lun jun 11 09:28:29 MDT 2018
+Starting WA3 Area 4 control loop process
+Ending WA3 Area 4 control loop process
+lun jun 11 09:31:47 MDT 2018
+Starting WA3 Area 1 control loop process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1=60.54, SM2=58.13, SM3=61.22
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=59.96
+    SM1_KAL=60.03
+    Control algorithm in MANUAL mode
+    Valve status (0)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=0, VALVE1_STATUS_RECEIVED=0
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=36.08, TEMP=25.39, WIND= 0.00, ETO= 0.83
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-11 09:31:49| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |60.03|60.54|58.13|61.22|0| 0.00|    0|25.39|36.08| 0.00| 0.83|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 Area 1 control loop process
+lun jun 11 09:32:57 MDT 2018
+Starting WA3 Area 1 control loop process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1= 0.00, SM2=58.13, SM3=61.61
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=39.91
+    SM1_KAL=49.92
+    Control algorithm in MANUAL mode
+    Valve status (0)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=0, VALVE1_STATUS_RECEIVED=0
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=35.77, TEMP=25.39, WIND= 0.00, ETO= 0.83
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-11 09:33:00| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |49.92| 0.00|58.13|61.61|0| 0.00|    0|25.39|35.77| 0.00| 0.83|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 Area 1 control loop process
+lun jun 11 09:35:01 MDT 2018
+Starting WA3 Area 1 control loop process
+(1) Read configuration files
+    OPERATION MODE: manual
+(2) Configure serial port
+(3) Transmit message to sensor node
+(4) Extract data from sensor node
+    SM1= 0.00, SM2=58.13, SM3=61.61
+(5) Calculate control action
+    Fusion (SM1,SM2,SM3)=39.91
+    SM1_KAL=44.89
+    Control algorithm in MANUAL mode
+    Valve status (0)
+(6) Transmit control action to actuator
+(7) Receive confirmation from actuator
+    VALVE1_STATUS_SENT=0, VALVE1_STATUS_RECEIVED=0
+    FLOW= 0.00
+(8) Transmit message to weather node
+(9) Extract data from weather sensor
+    RAD=    0, HUM=35.47, TEMP=25.39, WIND= 0.00, ETO= 0.83
+(10)Update configuration file
+(11)Update data file
+(12)Update log file
+    |DATE               | 
+    |2018-06-11 09:35:03| 
+    |SMC  |SM1  |SM2  |SM3  |V|FLOW |RAD  |TEMP |HUM  |WIND |ETO  |ALPHA|NDVI | 
+    |44.89| 0.00|58.13|61.61|0| 0.00|    0|25.39|35.47| 0.00| 0.83|0.000|0.000| 
+(13)Upload Data to ThingSpeak
+<Response [200]>
+Ending WA3 Area 1 control loop process

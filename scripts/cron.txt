@@ -20,4 +20,4 @@
 # For more information see the manual pages of crontab(5) and cron(8)
 # 
 # m h  dom mon dow   command
-*/5 * * * * /home/pi/Code/WA3/WA3_Raspberry/scripts/start_WA3_raspberry.sh
+*/5 * * * * /home/pi/Code/WA3/WA3_Raspberry/scripts/start_WA3_Raspberry_All_Areas.sh

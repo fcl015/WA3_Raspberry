@@ -1,0 +1,15 @@
+actuator_mac_address=ffffffffffffffff
+sensor_mac_address=ffffffffffffffff
+weather_mac_address=ffffffffffffffff
+ndvi_mac_address=ffffffffffffffff
+Q=0.00010
+R=0.01000
+p1_ant=0.00502
+smKalman_ant=35.0
+valve_status=0
+sm_sensors=111
+sm_actuators=001
+irrigation_high_limit=40.00
+irrigation_low_limit=30.00
+altitude=1440
+operation_mode=manual
