@@ -19,7 +19,7 @@ class irrigation_area:
                 self.operation_mode_file='../config/operation_mode_area'+str(id)+'.csv'
                 self.log_file='../log/log_area'+str(id)+'.csv'
                 self.data_file='../data/data_area'+str(id)+'.csv'
-                self.verbose=1
+                self.verbose=0
 
                 Q=0.0
                 R=0.0
