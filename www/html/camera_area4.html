@@ -4,7 +4,10 @@
 <title>Smart Irrigation System</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-	
+
+<!--------------------------------------------------------------------
+	Webpage style configuration
+--------------------------------------------------------------------->
 	<style>
 	* {
 	    box-sizing: border-box;
@@ -109,25 +112,19 @@
 
 </head>
 
+<!--------------------------------------------------------------------
+	Webpage content
+--------------------------------------------------------------------->
 <body>
 	<div class="header">
-	  <h1>System Logs</h1>
-	  <h2>Select Irrigation Area</h2>
+	  <h1>Area 4: Live Video Streaming</h1>
 	</div>
 
-	<div class="navbar">
-	  <a href="http://10.34.57.255">Home</a>
-	  <a href="./wa3_log/log_crontab.txt">Crontab Services</a>
-	  <a href="./wa3_log/log_video.txt">Video Server</a>
-	  <a href="./wa3_log/log_webiopi.txt">WebIOPi Server</a>
-	</div>
+	<div style="text-align:center">
+		<iframe src="http://10.34.57.255/rpi_cam?action=stream" width="800" height="600"/></iframe>
+	</script>
 
-	<div class="row">
-	  <div class="main" align="center">
-     	    <img src="./images/system_logs.png" alt="System Logs" width="350" vspace="20"> 
-	  </div>
 	</div>
-
 	<div class="footer">
 	  <h4 id="contact">Tecnologico de Monterrey, 2018</h4>
 	  <h4>Contact: camilo.lozoya@itesm.mx</h4>
